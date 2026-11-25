@@ -1,0 +1,50 @@
+/* Reference canvas: 1688 × 780. SVG surfaces and icons are independent layers. */
+:root{--hud-purple:#cd69d2;--hud-cyan:#47b6e5;--hud-ink:#181623;--hud-ease:cubic-bezier(.2,.8,.25,1.12)}
+#game-shell{border-radius:clamp(24px,3.8vw,64px);overflow:hidden;position:fixed;inset:0}
+#hud{position:absolute;inset:env(safe-area-inset-top,0) env(safe-area-inset-right,0) env(safe-area-inset-bottom,0) env(safe-area-inset-left,0);pointer-events:none;z-index:15;color:var(--hud-ink)}
+#hud button{pointer-events:auto;position:absolute;border:0;padding:0;box-shadow:none;background:transparent;color:var(--hud-ink);touch-action:manipulation;user-select:none;transition:transform 160ms var(--hud-ease)}
+#hud button:active{transform:scale(.94)}
+#hud button:focus-visible{outline:3px solid #fff;outline-offset:4px}
+.hud-surface{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}.hud-icon{position:absolute;left:27%;top:27%;width:46%;height:46%;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;pointer-events:none}
+#hud button .hud-label{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+#hud button .hud-tip{position:absolute;left:105%;top:25%;background:#fff8;color:#24233a;padding:5px 8px;white-space:nowrap;border-radius:8px;font-size:13px;opacity:0;pointer-events:none}
+@media(hover:hover) and (pointer:fine){#hud button:hover .hud-tip,#hud button:focus-visible .hud-tip{opacity:1}#hud button:hover{filter:brightness(1.05)}}
+#hud #play-mode,#hud #journal,#hud #landscape-toggle{left:1.9%;width:4.5%;height:auto;aspect-ratio:1;min-width:44px;min-height:44px;border-radius:50%;display:block}
+#hud #play-mode{top:4.2%}#hud #journal{top:max(15.2%,calc(4.2% + 48px))}#hud #landscape-toggle{top:max(26.3%,calc(4.2% + 96px))}
+#hud-card{position:absolute;left:7.2%;top:4.2%;width:17%;height:19.3%;opacity:0;transform:translateY(-12px);transition:opacity 180ms,transform 240ms var(--hud-ease);pointer-events:none}
+#hud-card .card-time{position:absolute;left:5%;top:8%;width:42%;height:37%;display:grid;place-items:center;font-size:clamp(12px,1.4vw,23px);font-weight:800}
+#hud-card .card-caption{position:absolute;left:8%;bottom:16%;font-size:clamp(10px,1vw,17px);font-weight:600}
+#hud-tray{position:absolute;left:0;bottom:3.2%;width:71.5%;height:12.2%;pointer-events:none;transform-origin:left;transition:transform 250ms var(--hud-ease)}
+body[data-hud-state="play"] #hud-tray{transform:scaleX(.153)}
+#hud #home{left:1.9%;bottom:3.2%;width:7.1%;height:15.4%;min-width:44px;min-height:44px}
+#hud-tools{position:absolute;left:17.8%;right:28.5%;bottom:3.2%;height:12.2%;display:flex;justify-content:space-between;gap:2%;pointer-events:none}
+#hud-tools button{display:block!important;position:relative;flex:0 0 10.4%;height:100%;min-width:44px;opacity:0;transform:translateY(16px);transition:opacity 160ms,transform 240ms var(--hud-ease);pointer-events:none}
+#hud-tools button .hud-tip{left:50%;top:auto;bottom:110%;transform:translateX(-50%)}
+body[data-hud-state="edit"] #hud-card,body[data-hud-state="interaction"] #hud-card{opacity:1;transform:none}
+body[data-hud-state="edit"] #hud-tools button,body[data-hud-state="interaction"] #hud-tools button{opacity:1;transform:none;pointer-events:auto;transition-delay:calc(var(--order)*22ms)}
+#hud-scrim{position:absolute;inset:0;z-index:9;pointer-events:none;opacity:0;transition:opacity 180ms;clip-path:inset(68.8% 0 0)}
+body[data-hud-state="edit"] #hud-scrim,body[data-hud-state="interaction"] #hud-scrim{opacity:1}body[data-hud-state="interaction"] #hud-scrim{clip-path:none;pointer-events:auto}
+#dice-panel{position:absolute!important;right:1.3%!important;bottom:1.8%!important;width:min(17.8vw,38.2dvh)!important;height:auto!important;aspect-ratio:1;padding:0!important;min-width:104px;border:0!important;border-radius:50%!important;background:var(--hud-purple)!important;box-shadow:none!important;backdrop-filter:none!important;z-index:18!important;transition:transform 240ms var(--hud-ease)}
+#dice-roll{position:absolute;inset:0;width:100%;height:100%;padding:0!important;background:transparent!important;border:0!important;box-shadow:none!important;border-radius:50%;touch-action:manipulation;color:#1c345b}
+#dice-face{position:absolute!important;inset:4%!important;width:92%!important;height:92%!important;transform:none!important;display:block!important;background:none!important}
+#dice-face canvas{width:100%;height:100%;touch-action:none;display:block}
+#dice-value,#dice-status,#dice-directions{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+#dice-roll:disabled{opacity:.86}#dice-roll:focus-visible{outline:3px solid white;outline-offset:3px}
+#dice-panel .rolling{animation:none!important}#hud-portrait{display:none;position:absolute;inset:-20% 0 0;pointer-events:none;width:100%;height:120%}
+body[data-hud-state="interaction"] #dice-face{display:none!important}body[data-hud-state="interaction"] #hud-portrait{display:block}
+#minimap{display:none!important}body.hud-map-visible #minimap{display:block!important;z-index:20}
+body>header,#game-shell>header,#game-shell>.bottom,#crosshair,#touch-controls{display:none!important}
+.paper{border:2px solid var(--hud-ink)!important;border-radius:26px!important;background:#def1f6f5!important;box-shadow:5px 7px 0 #20162d33!important;color:#25253b!important}
+.paper button{border:1.5px solid #25253b;border-radius:13px;background:#e9c7ef;color:#242239;box-shadow:none;min-height:38px}
+.paper button:focus-visible{outline:3px solid #387d9e;outline-offset:3px}
+#landscape-panel,#book,#help-panel{left:7.3%!important;right:auto!important;top:26%!important;bottom:20%!important;width:min(400px,54vw)!important;max-height:none!important;padding:18px!important;overflow:auto;z-index:22!important;font-size:14px}
+#landscape-panel h2,#book h2,#help-panel h2{font-family:inherit;font-size:22px}#landscape-panel .panel-top{background:#def1f6f5}
+#dialogue{inset:auto!important;left:50%!important;top:43%!important;transform:translate(-50%,-50%);width:min(600px,48vw)!important;max-height:64dvh!important;padding:24px!important;z-index:24!important;overflow:auto}
+#dialogue h2{font-family:inherit;font-size:clamp(20px,2.1vw,32px)}#dialogue #story-text{font-size:clamp(14px,1.15vw,18px);line-height:1.8}#dialogue .close{float:right;position:relative;right:0;top:0}
+#day-panel{left:9%!important;right:22%!important;top:26%!important;bottom:22%!important;max-height:none!important;width:auto!important;overflow:auto;z-index:21!important}
+#day-event-card{z-index:24;left:50%;top:40%;transform:translate(-50%,-50%);width:min(530px,50vw);max-height:55dvh;overflow:auto}
+#scene-list,#narrative-labels{display:none!important}
+#narrative-labels .npc-name{display:none}#npc-hover-r20{position:fixed;z-index:25;padding:7px 12px;background:#e8cff4ed;border:2px solid #241a35;border-radius:14px;color:#20182c;pointer-events:none;max-width:240px;transform:translate(-50%,-100%);text-align:center;font-size:13px;box-shadow:2px 3px 0 #20162d22}#npc-hover-r20 strong,#npc-hover-r20 span{display:block}
+#welcome{z-index:70}#game-shell:has(#welcome:not([hidden])) #hud,#game-shell:has(#welcome:not([hidden])) #dice-panel{visibility:hidden}
+@media(pointer:coarse) and (max-height:600px) and (orientation:landscape){#game-shell{border-radius:24px}#hud #play-mode{left:max(1.9%,6px)}#hud-card{left:max(7.2%,60px);width:22%;min-width:140px}#hud-tools{left:18%;right:29%;gap:4px}#hud-tools button{flex-basis:14%;min-width:40px}#hud #home{width:9%;height:17%}#hud #play-mode,#hud #journal,#hud #landscape-toggle{width:44px}#hud #journal{top:calc(4.2% + 48px)}#hud #landscape-toggle{top:calc(4.2% + 96px)}#landscape-panel,#book,#help-panel{left:9%!important;top:25%!important;bottom:21%!important;width:54vw!important;padding:12px!important}#day-panel{left:9%!important;right:23%!important;padding:12px!important}#dialogue{top:43%!important;max-height:68dvh!important;width:55vw!important;padding:14px!important}#dialogue #story-text{font-size:14px;line-height:1.45}#dialogue #story-title{margin:4px 28px 6px 0}#story-source{font-size:12px}.hud-icon{width:50%;height:50%;left:25%;top:25%}#dice-panel{width:min(23vw,38dvh)!important}}
+@media(prefers-reduced-motion:reduce){#hud *,#hud-scrim,#dice-panel{transition:none!important;animation:none!important}}

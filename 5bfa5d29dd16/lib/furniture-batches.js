@@ -1,0 +1,11 @@
+import * as THREE from 'three';
+// Keep logical roots, anchors and story bindings; submit repeated geometry once.
+export function createFurnitureBatches({scene,rows,interactables,camera,diagnostics}){
+ const groups=new Map(),frustum=new THREE.Frustum(),vp=new THREE.Matrix4();
+ for(const row of rows){row.root.updateMatrixWorld(true);row.root.traverse(o=>{if(!o.isMesh)return;const key=o.geometry.uuid+':'+o.material.uuid;if(!groups.has(key))groups.set(key,{geometry:o.geometry,material:o.material,entries:[]});groups.get(key).entries.push({id:row.spec.storySourceId??row.spec.id,root:row.root,matrix:o.matrixWorld.clone(),box:row.box.clone().expandByScalar(2)});o.layers.set(31);});}
+ const batches=[];for(const g of groups.values()){const mesh=new THREE.InstancedMesh(g.geometry,g.material,g.entries.length);mesh.name='shared-furniture-batch';mesh.frustumCulled=false;mesh.castShadow=true;mesh.receiveShadow=true;mesh.userData.instanceIds=[];mesh.userData.furnitureBatch=true;mesh.instanceMatrix.setUsage(THREE.DynamicDrawUsage);scene.add(mesh);interactables.push(mesh);batches.push({...g,mesh});}
+ const stats=diagnostics.furnitureBatch={logicalInstances:rows.length,batches:batches.length,visibleInstances:0,submittedInstances:0,anchorMatricesUnchanged:true};
+ let previousKey='';function update(){camera.updateMatrixWorld();vp.multiplyMatrices(camera.projectionMatrix,camera.matrixWorldInverse);frustum.setFromProjectionMatrix(vp);let visible=0,submitted=0;for(const b of batches){let k=0;b.mesh.userData.instanceIds=[];for(const e of b.entries){if(!e.root.visible)continue;visible++;if(!frustum.intersectsBox(e.box))continue;b.mesh.setMatrixAt(k++,e.matrix);b.mesh.userData.instanceIds.push(e.id);}b.mesh.count=k;b.mesh.visible=k>0;b.mesh.instanceMatrix.needsUpdate=true;submitted+=k;}stats.visibleInstances=visible;stats.submittedInstances=submitted;const key=batches.map(b=>b.mesh.userData.instanceIds.join()).join("|");const changed=key!==previousKey;previousKey=key;return changed;}
+ function dispose(){for(const b of batches){b.mesh.removeFromParent();const i=interactables.indexOf(b.mesh);if(i>=0)interactables.splice(i,1);b.mesh.dispose();}batches.length=0;groups.clear();}
+ update();return {update,stats,dispose};
+}

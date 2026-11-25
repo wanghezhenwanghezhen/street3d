@@ -1,0 +1,3160 @@
+{
+  "SRC_Baohe_C1_Bay_Frames_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 2,
+    "label": "SRC_Baohe_C1_Bay_Frames_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C1_Bay_Frames\",0]",
+    "region_color": "#02922E"
+  },
+  "SRC_Baohe_C1_Bay_Panel_Leaves_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 3,
+    "label": "SRC_Baohe_C1_Bay_Panel_Leaves_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C1_Bay_Panel_Leaves\",0]",
+    "region_color": "#03DBC5"
+  },
+  "SRC_Baohe_C1_Columns_9x5_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 4,
+    "label": "SRC_Baohe_C1_Columns_9x5_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C1_Columns_9x5\",0]",
+    "region_color": "#04245C"
+  },
+  "SRC_Baohe_C1_Recessed_Enclosure_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 5,
+    "label": "SRC_Baohe_C1_Recessed_Enclosure_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C1_Recessed_Enclosure\",0]",
+    "region_color": "#056DF3"
+  },
+  "SRC_Baohe_C1_Side_Bay_Panels_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 6,
+    "label": "SRC_Baohe_C1_Side_Bay_Panels_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C1_Side_Bay_Panels\",0]",
+    "region_color": "#06B68A"
+  },
+  "SRC_Baohe_C1_Upper_Gable_Frontons_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 7,
+    "label": "SRC_Baohe_C1_Upper_Gable_Frontons_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C1_Upper_Gable_Frontons\",0]",
+    "region_color": "#07FF21"
+  },
+  "SRC_Baohe_C2_Lower_Eave_Roof_0": {
+    "identity_family": "gold",
+    "material_family": "ceramic",
+    "roughness": 0.4,
+    "metalness": 0,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile_surface",
+      "seed": 1650300758,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 8,
+    "label": "SRC_Baohe_C2_Lower_Eave_Roof_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C2_Lower_Eave_Roof\",0]",
+    "region_color": "#0848B8"
+  },
+  "SRC_Baohe_C2_Main_Ridge_0": {
+    "identity_family": "gold",
+    "material_family": "ceramic",
+    "roughness": 0.4,
+    "metalness": 0,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile_surface",
+      "seed": 1650300758,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 9,
+    "label": "SRC_Baohe_C2_Main_Ridge_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C2_Main_Ridge\",0]",
+    "region_color": "#09914F"
+  },
+  "SRC_Baohe_C2_Upper_Xieshan_Roof_0": {
+    "identity_family": "gold",
+    "material_family": "ceramic",
+    "roughness": 0.4,
+    "metalness": 0,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile_surface",
+      "seed": 1650300758,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 10,
+    "label": "SRC_Baohe_C2_Upper_Xieshan_Roof_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C2_Upper_Xieshan_Roof\",0]",
+    "region_color": "#0ADAE6"
+  },
+  "SRC_Baohe_C2_Upper_Xieshan_Roof_Ridges_0": {
+    "identity_family": "gold",
+    "material_family": "ceramic",
+    "roughness": 0.4,
+    "metalness": 0,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile_surface",
+      "seed": 1650300758,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 11,
+    "label": "SRC_Baohe_C2_Upper_Xieshan_Roof_Ridges_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C2_Upper_Xieshan_Roof_Ridges\",0]",
+    "region_color": "#0B237D"
+  },
+  "SRC_Baohe_C3_Column_Stone_Feet_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-018",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 12,
+    "label": "SRC_Baohe_C3_Column_Stone_Feet_0",
+    "tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "bright": "#F0D499",
+    "original_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "requested_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C3_Column_Stone_Feet\",0]",
+    "region_color": "#0C6C14"
+  },
+  "SRC_Baohe_C3_Stairs_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-019",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 13,
+    "label": "SRC_Baohe_C3_Stairs_0",
+    "tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "bright": "#D8B772",
+    "original_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "requested_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C3_Stairs\",0]",
+    "region_color": "#0DB5AB"
+  },
+  "SRC_Baohe_C3_Stylobate_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-018",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 14,
+    "label": "SRC_Baohe_C3_Stylobate_0",
+    "tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "bright": "#F0D499",
+    "original_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "requested_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C3_Stylobate\",0]",
+    "region_color": "#0EFE42"
+  },
+  "SRC_Baohe_C4_Capital_Brackets_0": {
+    "identity_family": "green",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-020",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 2754422672,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#4D9475",
+    "role_id": 15,
+    "label": "SRC_Baohe_C4_Capital_Brackets_0",
+    "tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "bright": "#84C46B",
+    "original_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "requested_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C4_Capital_Brackets\",0]",
+    "region_color": "#0F47D9"
+  },
+  "SRC_Baohe_C4_Painted_Lintels_0": {
+    "identity_family": "green",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-020",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 2754422672,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#4D9475",
+    "role_id": 16,
+    "label": "SRC_Baohe_C4_Painted_Lintels_0",
+    "tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "bright": "#84C46B",
+    "original_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "requested_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C4_Painted_Lintels\",0]",
+    "region_color": "#109070"
+  },
+  "SRC_Baohe_C4_Upper_Eave_Support_0": {
+    "identity_family": "green",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-020",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 2754422672,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#4D9475",
+    "role_id": 17,
+    "label": "SRC_Baohe_C4_Upper_Eave_Support_0",
+    "tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "bright": "#84C46B",
+    "original_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "requested_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C4_Upper_Eave_Support\",0]",
+    "region_color": "#11D907"
+  },
+  "SRC_Baohe_C5_Historic_Plaque_Frame_0": {
+    "identity_family": "gold",
+    "material_family": "bare_metal",
+    "roughness": 0.32,
+    "metalness": 1,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "subtle_pigment",
+      "seed": 3809191956,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 18,
+    "label": "SRC_Baohe_C5_Historic_Plaque_Frame_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C5_Historic_Plaque_Frame\",0]",
+    "region_color": "#12229E"
+  },
+  "SRC_Baohe_C5_Ridge_Finials_0": {
+    "identity_family": "gold",
+    "material_family": "bare_metal",
+    "roughness": 0.32,
+    "metalness": 1,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "subtle_pigment",
+      "seed": 3809191956,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 19,
+    "label": "SRC_Baohe_C5_Ridge_Finials_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C5_Ridge_Finials\",0]",
+    "region_color": "#136B35"
+  },
+  "SRC_Baohe_C6_Blue_Painted_Panels_0": {
+    "identity_family": "blue",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-021",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 1176956018,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#407FB8",
+    "role_id": 20,
+    "label": "SRC_Baohe_C6_Blue_Painted_Panels_0",
+    "tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "bright": "#4489C9",
+    "original_tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "requested_tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C6_Blue_Painted_Panels\",0]",
+    "region_color": "#14B4CC"
+  },
+  "SRC_Baohe_C6_Historic_Plaque_Field_0": {
+    "identity_family": "blue",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-021",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 1176956018,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#407FB8",
+    "role_id": 21,
+    "label": "SRC_Baohe_C6_Historic_Plaque_Field_0",
+    "tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "bright": "#4489C9",
+    "original_tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "requested_tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C6_Historic_Plaque_Field\",0]",
+    "region_color": "#15FD63"
+  },
+  "SRC_Shared_C3_Balustrades_Tier_1_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-018",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 22,
+    "label": "SRC_Shared_C3_Balustrades_Tier_1_0",
+    "tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "bright": "#F0D499",
+    "original_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "requested_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Shared_C3_Balustrades_Tier_1\",0]",
+    "region_color": "#1646FA"
+  },
+  "SRC_Shared_C3_Balustrades_Tier_2_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-018",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 23,
+    "label": "SRC_Shared_C3_Balustrades_Tier_2_0",
+    "tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "bright": "#F0D499",
+    "original_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "requested_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Shared_C3_Balustrades_Tier_2\",0]",
+    "region_color": "#178F91"
+  },
+  "SRC_Shared_C3_Balustrades_Tier_3_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-018",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 24,
+    "label": "SRC_Shared_C3_Balustrades_Tier_3_0",
+    "tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "bright": "#F0D499",
+    "original_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "requested_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Shared_C3_Balustrades_Tier_3\",0]",
+    "region_color": "#18D828"
+  },
+  "SRC_Shared_C3_Terrace_1_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-019",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 25,
+    "label": "SRC_Shared_C3_Terrace_1_0",
+    "tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "bright": "#D8B772",
+    "original_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "requested_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Shared_C3_Terrace_1\",0]",
+    "region_color": "#1921BF"
+  },
+  "SRC_Shared_C3_Terrace_2_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-019",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 26,
+    "label": "SRC_Shared_C3_Terrace_2_0",
+    "tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "bright": "#D8B772",
+    "original_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "requested_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Shared_C3_Terrace_2\",0]",
+    "region_color": "#1A6A56"
+  },
+  "SRC_Shared_C3_Terrace_3_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-019",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 27,
+    "label": "SRC_Shared_C3_Terrace_3_0",
+    "tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "bright": "#D8B772",
+    "original_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "requested_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Shared_C3_Terrace_3\",0]",
+    "region_color": "#1BB3ED"
+  },
+  "SRC_Shared_C3_Terrace_Cornices_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-019",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 28,
+    "label": "SRC_Shared_C3_Terrace_Cornices_0",
+    "tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "bright": "#D8B772",
+    "original_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "requested_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Shared_C3_Terrace_Cornices\",0]",
+    "region_color": "#1CFC84"
+  },
+  "SRC_Taihe_C1_Bay_Frames_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 29,
+    "label": "SRC_Taihe_C1_Bay_Frames_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C1_Bay_Frames\",0]",
+    "region_color": "#1D451B"
+  },
+  "SRC_Taihe_C1_Bay_Panel_Leaves_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 30,
+    "label": "SRC_Taihe_C1_Bay_Panel_Leaves_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C1_Bay_Panel_Leaves\",0]",
+    "region_color": "#1E8EB2"
+  },
+  "SRC_Taihe_C1_Columns_11x5_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 31,
+    "label": "SRC_Taihe_C1_Columns_11x5_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C1_Columns_11x5\",0]",
+    "region_color": "#1FD749"
+  },
+  "SRC_Taihe_C1_Recessed_Enclosure_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 32,
+    "label": "SRC_Taihe_C1_Recessed_Enclosure_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C1_Recessed_Enclosure\",0]",
+    "region_color": "#2020E0"
+  },
+  "SRC_Taihe_C1_Side_Bay_Panels_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 33,
+    "label": "SRC_Taihe_C1_Side_Bay_Panels_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C1_Side_Bay_Panels\",0]",
+    "region_color": "#216977"
+  },
+  "SRC_Taihe_C2_Lower_Eave_Roof_0": {
+    "identity_family": "gold",
+    "material_family": "ceramic",
+    "roughness": 0.4,
+    "metalness": 0,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile_surface",
+      "seed": 1650300758,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 34,
+    "label": "SRC_Taihe_C2_Lower_Eave_Roof_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C2_Lower_Eave_Roof\",0]",
+    "region_color": "#22B20E"
+  },
+  "SRC_Taihe_C2_Main_Ridge_0": {
+    "identity_family": "gold",
+    "material_family": "ceramic",
+    "roughness": 0.4,
+    "metalness": 0,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile_surface",
+      "seed": 1650300758,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 35,
+    "label": "SRC_Taihe_C2_Main_Ridge_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C2_Main_Ridge\",0]",
+    "region_color": "#23FBA5"
+  },
+  "SRC_Taihe_C2_Upper_Wudian_Roof_0": {
+    "identity_family": "gold",
+    "material_family": "ceramic",
+    "roughness": 0.4,
+    "metalness": 0,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile_surface",
+      "seed": 1650300758,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 36,
+    "label": "SRC_Taihe_C2_Upper_Wudian_Roof_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C2_Upper_Wudian_Roof\",0]",
+    "region_color": "#24443C"
+  },
+  "SRC_Taihe_C2_Upper_Wudian_Roof_Ridges_0": {
+    "identity_family": "gold",
+    "material_family": "ceramic",
+    "roughness": 0.4,
+    "metalness": 0,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile_surface",
+      "seed": 1650300758,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 37,
+    "label": "SRC_Taihe_C2_Upper_Wudian_Roof_Ridges_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C2_Upper_Wudian_Roof_Ridges\",0]",
+    "region_color": "#258DD3"
+  },
+  "SRC_Taihe_C3_Axial_Stone_Ramp_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-018",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 38,
+    "label": "SRC_Taihe_C3_Axial_Stone_Ramp_0",
+    "tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "bright": "#F0D499",
+    "original_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "requested_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C3_Axial_Stone_Ramp\",0]",
+    "region_color": "#26D66A"
+  },
+  "SRC_Taihe_C3_Column_Stone_Feet_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-018",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 39,
+    "label": "SRC_Taihe_C3_Column_Stone_Feet_0",
+    "tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "bright": "#F0D499",
+    "original_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "requested_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C3_Column_Stone_Feet\",0]",
+    "region_color": "#271F01"
+  },
+  "SRC_Taihe_C3_Stair_Balustrade_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-019",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 40,
+    "label": "SRC_Taihe_C3_Stair_Balustrade_0",
+    "tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "bright": "#D8B772",
+    "original_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "requested_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C3_Stair_Balustrade\",0]",
+    "region_color": "#286898"
+  },
+  "SRC_Taihe_C3_Stairs_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-019",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 41,
+    "label": "SRC_Taihe_C3_Stairs_0",
+    "tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "bright": "#D8B772",
+    "original_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "requested_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C3_Stairs\",0]",
+    "region_color": "#29B12F"
+  },
+  "SRC_Taihe_C3_Stylobate_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-018",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 42,
+    "label": "SRC_Taihe_C3_Stylobate_0",
+    "tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "bright": "#F0D499",
+    "original_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "requested_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C3_Stylobate\",0]",
+    "region_color": "#2AFAC6"
+  },
+  "SRC_Taihe_C4_Capital_Brackets_0": {
+    "identity_family": "green",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-020",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 2754422672,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#4D9475",
+    "role_id": 43,
+    "label": "SRC_Taihe_C4_Capital_Brackets_0",
+    "tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "bright": "#84C46B",
+    "original_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "requested_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C4_Capital_Brackets\",0]",
+    "region_color": "#2B435D"
+  },
+  "SRC_Taihe_C4_Eave_Bearing_Plate_0": {
+    "identity_family": "green",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-020",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 2754422672,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#4D9475",
+    "role_id": 44,
+    "label": "SRC_Taihe_C4_Eave_Bearing_Plate_0",
+    "tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "bright": "#84C46B",
+    "original_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "requested_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C4_Eave_Bearing_Plate\",0]",
+    "region_color": "#2C8CF4"
+  },
+  "SRC_Taihe_C4_Painted_Lintels_0": {
+    "identity_family": "green",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-020",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 2754422672,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#4D9475",
+    "role_id": 45,
+    "label": "SRC_Taihe_C4_Painted_Lintels_0",
+    "tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "bright": "#84C46B",
+    "original_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "requested_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C4_Painted_Lintels\",0]",
+    "region_color": "#2DD58B"
+  },
+  "SRC_Taihe_C4_Upper_Eave_Support_0": {
+    "identity_family": "green",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-020",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 2754422672,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#4D9475",
+    "role_id": 46,
+    "label": "SRC_Taihe_C4_Upper_Eave_Support_0",
+    "tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "bright": "#84C46B",
+    "original_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "requested_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C4_Upper_Eave_Support\",0]",
+    "region_color": "#2E1E22"
+  },
+  "SRC_Taihe_C5_Historic_Plaque_Frame_0": {
+    "identity_family": "gold",
+    "material_family": "bare_metal",
+    "roughness": 0.32,
+    "metalness": 1,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "subtle_pigment",
+      "seed": 3809191956,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 47,
+    "label": "SRC_Taihe_C5_Historic_Plaque_Frame_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C5_Historic_Plaque_Frame\",0]",
+    "region_color": "#2F67B9"
+  },
+  "SRC_Taihe_C5_Ridge_Finials_0": {
+    "identity_family": "gold",
+    "material_family": "bare_metal",
+    "roughness": 0.32,
+    "metalness": 1,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "subtle_pigment",
+      "seed": 3809191956,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 48,
+    "label": "SRC_Taihe_C5_Ridge_Finials_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C5_Ridge_Finials\",0]",
+    "region_color": "#30B050"
+  },
+  "SRC_Taihe_C6_Blue_Painted_Panels_0": {
+    "identity_family": "blue",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-021",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 1176956018,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#407FB8",
+    "role_id": 49,
+    "label": "SRC_Taihe_C6_Blue_Painted_Panels_0",
+    "tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "bright": "#4489C9",
+    "original_tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "requested_tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C6_Blue_Painted_Panels\",0]",
+    "region_color": "#31F9E7"
+  },
+  "SRC_Taihe_C6_Historic_Plaque_Field_0": {
+    "identity_family": "blue",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-021",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 1176956018,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#407FB8",
+    "role_id": 50,
+    "label": "SRC_Taihe_C6_Historic_Plaque_Field_0",
+    "tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "bright": "#4489C9",
+    "original_tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "requested_tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C6_Historic_Plaque_Field\",0]",
+    "region_color": "#32427E"
+  },
+  "SRC_Zhonghe_C1_Bay_Frames_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 51,
+    "label": "SRC_Zhonghe_C1_Bay_Frames_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C1_Bay_Frames\",0]",
+    "region_color": "#338B15"
+  },
+  "SRC_Zhonghe_C1_Bay_Panel_Leaves_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 52,
+    "label": "SRC_Zhonghe_C1_Bay_Panel_Leaves_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C1_Bay_Panel_Leaves\",0]",
+    "region_color": "#34D4AC"
+  },
+  "SRC_Zhonghe_C1_Columns_3x3_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 53,
+    "label": "SRC_Zhonghe_C1_Columns_3x3_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C1_Columns_3x3\",0]",
+    "region_color": "#351D43"
+  },
+  "SRC_Zhonghe_C1_Recessed_Enclosure_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 54,
+    "label": "SRC_Zhonghe_C1_Recessed_Enclosure_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C1_Recessed_Enclosure\",0]",
+    "region_color": "#3666DA"
+  },
+  "SRC_Zhonghe_C1_Side_Bay_Panels_0": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 55,
+    "label": "SRC_Zhonghe_C1_Side_Bay_Panels_0",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C1_Side_Bay_Panels\",0]",
+    "region_color": "#37AF71"
+  },
+  "SRC_Zhonghe_C2_Single_Pyramidal_Roof_0": {
+    "identity_family": "gold",
+    "material_family": "ceramic",
+    "roughness": 0.4,
+    "metalness": 0,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile_surface",
+      "seed": 1650300758,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 56,
+    "label": "SRC_Zhonghe_C2_Single_Pyramidal_Roof_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C2_Single_Pyramidal_Roof\",0]",
+    "region_color": "#38F808"
+  },
+  "SRC_Zhonghe_C2_Single_Pyramidal_Roof_Ridges_0": {
+    "identity_family": "gold",
+    "material_family": "ceramic",
+    "roughness": 0.4,
+    "metalness": 0,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile_surface",
+      "seed": 1650300758,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 57,
+    "label": "SRC_Zhonghe_C2_Single_Pyramidal_Roof_Ridges_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C2_Single_Pyramidal_Roof_Ridges\",0]",
+    "region_color": "#39419F"
+  },
+  "SRC_Zhonghe_C3_Column_Stone_Feet_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-018",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 58,
+    "label": "SRC_Zhonghe_C3_Column_Stone_Feet_0",
+    "tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "bright": "#F0D499",
+    "original_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "requested_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C3_Column_Stone_Feet\",0]",
+    "region_color": "#3A8A36"
+  },
+  "SRC_Zhonghe_C3_Stairs_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-019",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 59,
+    "label": "SRC_Zhonghe_C3_Stairs_0",
+    "tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "bright": "#D8B772",
+    "original_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "requested_tones": {
+      "bright": "#D8B772",
+      "gray_1": "#CBB48C",
+      "gray_2": "#9E8D75",
+      "dark": "#7B6E60"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C3_Stairs\",0]",
+    "region_color": "#3BD3CD"
+  },
+  "SRC_Zhonghe_C3_Stylobate_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-018",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 60,
+    "label": "SRC_Zhonghe_C3_Stylobate_0",
+    "tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "bright": "#F0D499",
+    "original_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "requested_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C3_Stylobate\",0]",
+    "region_color": "#3C1C64"
+  },
+  "SRC_Zhonghe_C4_Capital_Brackets_0": {
+    "identity_family": "green",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-020",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 2754422672,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#4D9475",
+    "role_id": 61,
+    "label": "SRC_Zhonghe_C4_Capital_Brackets_0",
+    "tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "bright": "#84C46B",
+    "original_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "requested_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C4_Capital_Brackets\",0]",
+    "region_color": "#3D65FB"
+  },
+  "SRC_Zhonghe_C4_Painted_Lintels_0": {
+    "identity_family": "green",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-020",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 2754422672,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#4D9475",
+    "role_id": 62,
+    "label": "SRC_Zhonghe_C4_Painted_Lintels_0",
+    "tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "bright": "#84C46B",
+    "original_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "requested_tones": {
+      "bright": "#84C46B",
+      "gray_1": "#739C68",
+      "gray_2": "#5D7A58",
+      "dark": "#4A5F49"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C4_Painted_Lintels\",0]",
+    "region_color": "#3EAE92"
+  },
+  "SRC_Zhonghe_C5_Finial_0": {
+    "identity_family": "gold",
+    "material_family": "bare_metal",
+    "roughness": 0.32,
+    "metalness": 1,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "subtle_pigment",
+      "seed": 3809191956,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 63,
+    "label": "SRC_Zhonghe_C5_Finial_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C5_Finial\",0]",
+    "region_color": "#3FF729"
+  },
+  "SRC_Zhonghe_C5_Historic_Plaque_Frame_0": {
+    "identity_family": "gold",
+    "material_family": "bare_metal",
+    "roughness": 0.32,
+    "metalness": 1,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "subtle_pigment",
+      "seed": 3809191956,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 64,
+    "label": "SRC_Zhonghe_C5_Historic_Plaque_Frame_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C5_Historic_Plaque_Frame\",0]",
+    "region_color": "#4040C0"
+  },
+  "SRC_Zhonghe_C6_Blue_Painted_Panels_0": {
+    "identity_family": "blue",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-021",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 1176956018,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#407FB8",
+    "role_id": 65,
+    "label": "SRC_Zhonghe_C6_Blue_Painted_Panels_0",
+    "tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "bright": "#4489C9",
+    "original_tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "requested_tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C6_Blue_Painted_Panels\",0]",
+    "region_color": "#418957"
+  },
+  "SRC_Zhonghe_C6_Historic_Plaque_Field_0": {
+    "identity_family": "blue",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-021",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 1176956018,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#407FB8",
+    "role_id": 66,
+    "label": "SRC_Zhonghe_C6_Historic_Plaque_Field_0",
+    "tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "bright": "#4489C9",
+    "original_tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "requested_tones": {
+      "bright": "#4489C9",
+      "gray_1": "#4574AD",
+      "gray_2": "#425E8C",
+      "dark": "#394766"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C6_Historic_Plaque_Field\",0]",
+    "region_color": "#42D2EE"
+  },
+  "SRC_Baohe_C2_Lower_Eave_Roof__RoofTileRelief_0": {
+    "identity_family": "gold",
+    "material_family": "ceramic",
+    "roughness": 0.4,
+    "metalness": 0,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile_surface",
+      "seed": 1650300758,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 67,
+    "label": "SRC_Baohe_C2_Lower_Eave_Roof__RoofTileRelief_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C2_Lower_Eave_Roof__RoofTileRelief\",0]",
+    "region_color": "#431B85"
+  },
+  "SRC_Baohe_C2_Upper_Xieshan_Roof__RoofTileRelief_0": {
+    "identity_family": "gold",
+    "material_family": "ceramic",
+    "roughness": 0.4,
+    "metalness": 0,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile_surface",
+      "seed": 1650300758,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 68,
+    "label": "SRC_Baohe_C2_Upper_Xieshan_Roof__RoofTileRelief_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C2_Upper_Xieshan_Roof__RoofTileRelief\",0]",
+    "region_color": "#44641C"
+  },
+  "SRC_Baohe_C3_Stylobate__ExistingCourseRelief_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-018",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 69,
+    "label": "SRC_Baohe_C3_Stylobate__ExistingCourseRelief_0",
+    "tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "bright": "#F0D499",
+    "original_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "requested_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Baohe_C3_Stylobate__ExistingCourseRelief\",0]",
+    "region_color": "#45ADB3"
+  },
+  "SRC_Taihe_C2_Lower_Eave_Roof__RoofTileRelief_0": {
+    "identity_family": "gold",
+    "material_family": "ceramic",
+    "roughness": 0.4,
+    "metalness": 0,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile_surface",
+      "seed": 1650300758,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 70,
+    "label": "SRC_Taihe_C2_Lower_Eave_Roof__RoofTileRelief_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C2_Lower_Eave_Roof__RoofTileRelief\",0]",
+    "region_color": "#46F64A"
+  },
+  "SRC_Taihe_C2_Upper_Wudian_Roof__RoofTileRelief_0": {
+    "identity_family": "gold",
+    "material_family": "ceramic",
+    "roughness": 0.4,
+    "metalness": 0,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile_surface",
+      "seed": 1650300758,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 71,
+    "label": "SRC_Taihe_C2_Upper_Wudian_Roof__RoofTileRelief_0",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C2_Upper_Wudian_Roof__RoofTileRelief\",0]",
+    "region_color": "#473FE1"
+  },
+  "SRC_Taihe_C3_Stylobate__ExistingCourseRelief_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-018",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 72,
+    "label": "SRC_Taihe_C3_Stylobate__ExistingCourseRelief_0",
+    "tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "bright": "#F0D499",
+    "original_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "requested_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C3_Stylobate__ExistingCourseRelief\",0]",
+    "region_color": "#488878"
+  },
+  "SRC_Zhonghe_C3_Stylobate__ExistingCourseRelief_0": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-018",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 73,
+    "label": "SRC_Zhonghe_C3_Stylobate__ExistingCourseRelief_0",
+    "tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "bright": "#F0D499",
+    "original_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "requested_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Zhonghe_C3_Stylobate__ExistingCourseRelief\",0]",
+    "region_color": "#49D10F"
+  },
+  "FC_stone": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.9,
+    "metalness": 0,
+    "palette_source_id": "cream-current-018",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 1824593107,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 74,
+    "label": "FC_stone",
+    "tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "bright": "#F0D499",
+    "original_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "requested_tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C3_Stylobate\",0]",
+    "region_color": "#4A1AA6"
+  },
+  "FC_wall": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.78,
+    "metalness": 0,
+    "palette_source_id": "cream-current-016",
+    "texture": {
+      "enabled": true,
+      "pattern": "directional_wood",
+      "seed": 4000701563,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 75,
+    "label": "FC_wall",
+    "tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "bright": "#EE6B84",
+    "original_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "requested_tones": {
+      "bright": "#EE6B84",
+      "gray_1": "#B9647A",
+      "gray_2": "#91586B",
+      "dark": "#714C5B"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C1_Recessed_Enclosure\",0]",
+    "region_color": "#4B633D"
+  },
+  "FC_tile": {
+    "identity_family": "gold",
+    "material_family": "ceramic",
+    "roughness": 0.4,
+    "metalness": 0,
+    "palette_source_id": "cream-current-017",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile_surface",
+      "seed": 1650300758,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "intrinsic_reference_color": "#E4B445",
+    "role_id": 76,
+    "label": "FC_tile",
+    "tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "bright": "#E3A04E",
+    "original_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "requested_tones": {
+      "bright": "#E3A04E",
+      "gray_1": "#D99753",
+      "gray_2": "#C0875A",
+      "dark": "#966C53"
+    },
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": "[\"Taihe_C2_Upper_Wudian_Roof\",0]",
+    "region_color": "#4CACD4"
+  }
+}

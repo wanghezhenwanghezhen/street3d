@@ -1,0 +1,31 @@
+{
+  "schema": "qianyu-grass-runtime/v3",
+  "revision": "map-grass-scale-20261107/r1",
+  "sourceTufts": 10780,
+  "sourceLeaves": 30100,
+  "rules": {
+    "sizeMultiplier": 1.5,
+    "densityMultiplier": 2,
+    "clusterGridU": 0.55,
+    "clusterKeepProbability": 0.7,
+    "clusterCountRange": [
+      5,
+      7
+    ],
+    "clusterRadiusU": 0.11,
+    "rootSeparationU": 0.04,
+    "uniformScaleRange": [
+      0.86,
+      1.06
+    ],
+    "placementGate": "actual full vertex wind convex envelope inside exposed real grass and outside all explicit exclusions; source true triangle height/normal. Reject unresolved or unsupported candidates, never shrink a collision proxy implicitly.",
+    "alreadyBakedInSourceMatrix": true,
+    "runtimeExtraScale": 1,
+    "distanceCulling": false,
+    "newGrassCaster": false,
+    "receivedShadowMultiplier": 0.5
+  },
+  "sourceIndexSha256": "7ff9b37e7eae8b80dd67702f49a31e91a4cd76be79e34686e64f095f82eafa54",
+  "actualSourceData": "data/grass.json",
+  "dataSha256": "afabdb2eaef447a029f79657dcea7478a128bffdf3aa5b8f536a661d0bbd7c83"
+}

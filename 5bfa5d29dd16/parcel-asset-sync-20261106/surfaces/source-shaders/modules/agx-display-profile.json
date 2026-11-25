@@ -1,0 +1,25 @@
+{
+  "filename": "blender52-agx-medium-high-129.rgba8",
+  "sha256": "c04dd4ba8ddd8371720c8f714b940ecf5ba2c91b793f548073dff6e301531595",
+  "size": 129,
+  "input": "Linear-sRGB nonnegative RGB",
+  "output": "display encoded sRGB",
+  "shaper_scale": 0.01,
+  "max_linear": 64.0,
+  "view_transform": "AgX",
+  "look": "AgX - Medium High Contrast",
+  "exposure_stops": 0,
+  "gamma": 1,
+  "blender_version": "5.2.0 LTS",
+  "config_sha256": "df5714c85d5afb5e9762281503a0c48a9f65dadb22d32a3aee50c454a0821f62",
+  "interpolation": "trilinear",
+  "test": {
+    "samples": 4096,
+    "max_error_8bit": 2.0804702462327356,
+    "p99_error_8bit": 0.7674912752350412,
+    "mean_error_8bit": 0.19748369843213368,
+    "tolerance_max_8bit": 4,
+    "passed": true,
+    "kind": "DISPLAY_TRANSFORM_ONLY_NOT_LIGHTING_CALIBRATION"
+  }
+}

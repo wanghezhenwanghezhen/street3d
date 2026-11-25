@@ -1,0 +1,4 @@
+Qianyu Rounded is a renamed web subset of LXGW 975 Yuan SC, not the proprietary Animal Crossing font.
+Source: https://github.com/lxgw/975Yuan/tree/37b753f408b25d3ab3d25cbddb5dd9dacca0289a
+License: SIL Open Font License 1.1 (see OFL.txt).
+Original glyphs retained; subsetting and naming only.

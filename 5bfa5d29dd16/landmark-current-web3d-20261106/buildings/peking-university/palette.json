@@ -1,0 +1,395 @@
+{
+  "V23_BUILDING_GRAY_CERAMIC": {
+    "identity_family": "gray",
+    "material_family": "ceramic",
+    "roughness": 0.52,
+    "metalness": 0,
+    "palette_source_id": "realistic-source-cream-v18-031",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile",
+      "seed": 3243815431,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "finish": {
+      "highlight": 1,
+      "reflection": 1,
+      "density": 1,
+      "detail": 0,
+      "pattern": 0
+    },
+    "material_response": {
+      "kind": 13,
+      "roughness": 0.52,
+      "specular": 0.2,
+      "reflection": 0.025,
+      "detail": 0.004,
+      "density": 12,
+      "reference": "F4.3",
+      "label": "釉陶 · 柔和釉层",
+      "profile": "ceramic",
+      "revision": "material-response-v1-20261008"
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "source_material_id": "slate",
+    "intrinsic_reference_color": "#A9ADB3",
+    "role_id": 3,
+    "label": "V23_BUILDING_GRAY_CERAMIC",
+    "tones": {
+      "bright": "#7C8894",
+      "gray_1": "#6B737D",
+      "gray_2": "#585C63",
+      "dark": "#43454A"
+    },
+    "bright": "#7C8894",
+    "original_tones": {
+      "bright": "#7C8894",
+      "gray_1": "#6B737D",
+      "gray_2": "#585C63",
+      "dark": "#43454A"
+    },
+    "requested_tones": {
+      "bright": "#7C8894",
+      "gray_1": "#6B737D",
+      "gray_2": "#585C63",
+      "dark": "#43454A"
+    },
+    "authority": "Per-object + material-slot recipe with requested_tones/source IDs. Default realistic source recorded; cream/memphis remain distinct variants. Do not flatten object mappings to name-only roles.",
+    "source_recipe_target": "[\"Boya_base_niche0\",0]",
+    "region_color": "#03DBC5"
+  },
+  "V23_BUILDING_STONE_ROUGH_STONE": {
+    "identity_family": "stone",
+    "material_family": "rough_stone",
+    "roughness": 0.84,
+    "metalness": 0,
+    "palette_source_id": "realistic-source-cream-v18-034",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone",
+      "seed": 88106009,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "finish": {
+      "highlight": 1,
+      "reflection": 1,
+      "density": 1,
+      "detail": 0,
+      "pattern": 0
+    },
+    "material_response": {
+      "kind": 9,
+      "roughness": 0.84,
+      "specular": 0.045,
+      "reflection": 0.005,
+      "detail": 0.006,
+      "density": 12,
+      "reference": "F3.4",
+      "label": "结构石材 · 低对比纹理",
+      "profile": "stone",
+      "revision": "material-response-v1-20261008"
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "source_material_id": "stone",
+    "intrinsic_reference_color": "#D6CCB9",
+    "role_id": 2,
+    "label": "V23_BUILDING_STONE_ROUGH_STONE",
+    "tones": {
+      "bright": "#D6CCB9",
+      "gray_1": "#BCB6A5",
+      "gray_2": "#9E9B8E",
+      "dark": "#7C7B72"
+    },
+    "bright": "#D6CCB9",
+    "original_tones": {
+      "bright": "#D6CCB9",
+      "gray_1": "#BCB6A5",
+      "gray_2": "#9E9B8E",
+      "dark": "#7C7B72"
+    },
+    "requested_tones": {
+      "bright": "#D6CCB9",
+      "gray_1": "#BCB6A5",
+      "gray_2": "#9E9B8E",
+      "dark": "#7C7B72"
+    },
+    "authority": "Per-object + material-slot recipe with requested_tones/source IDs. Default realistic source recorded; cream/memphis remain distinct variants. Do not flatten object mappings to name-only roles.",
+    "source_recipe_target": "[\"Boya_base\",0]",
+    "region_color": "#02922E"
+  },
+  "V23_BUILDING_WHITE_ROUGH_STONE": {
+    "identity_family": "white",
+    "material_family": "rough_stone",
+    "roughness": 0.84,
+    "metalness": 0,
+    "palette_source_id": "realistic-source-cream-v18-033",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone",
+      "seed": 242717515,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "finish": {
+      "highlight": 1,
+      "reflection": 1,
+      "density": 1,
+      "detail": 0,
+      "pattern": 0
+    },
+    "material_response": {
+      "kind": 9,
+      "roughness": 0.84,
+      "specular": 0.045,
+      "reflection": 0.005,
+      "detail": 0.006,
+      "density": 12,
+      "reference": "F3.4",
+      "label": "结构石材 · 低对比纹理",
+      "profile": "stone",
+      "revision": "material-response-v1-20261008"
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "source_material_id": "white",
+    "intrinsic_reference_color": "#F0EEE8",
+    "role_id": 4,
+    "label": "V23_BUILDING_WHITE_ROUGH_STONE",
+    "tones": {
+      "bright": "#E6EFF7",
+      "gray_1": "#CCD1D9",
+      "gray_2": "#B1B4BA",
+      "dark": "#909296"
+    },
+    "bright": "#E6EFF7",
+    "original_tones": {
+      "bright": "#E6EFF7",
+      "gray_1": "#CCD1D9",
+      "gray_2": "#B1B4BA",
+      "dark": "#909296"
+    },
+    "requested_tones": {
+      "bright": "#E6EFF7",
+      "gray_1": "#CCD1D9",
+      "gray_2": "#B1B4BA",
+      "dark": "#909296"
+    },
+    "authority": "Per-object + material-slot recipe with requested_tones/source IDs. Default realistic source recorded; cream/memphis remain distinct variants. Do not flatten object mappings to name-only roles.",
+    "source_recipe_target": "[\"Lion_body0\",0]",
+    "region_color": "#04245C"
+  },
+  "V23_BUILDING_GRAY_GLASS_STYLIZED": {
+    "role_id": 104,
+    "label": "V23_BUILDING_GRAY_GLASS_STYLIZED",
+    "tones": {
+      "bright": "#7C8894",
+      "gray_1": "#6B737D",
+      "gray_2": "#585C63",
+      "dark": "#43454A"
+    },
+    "bright": "#7C8894",
+    "roughness": 0.3,
+    "metalness": 0,
+    "authority": "Existing map component retained; not a new palette-3 architectural edit",
+    "preserved_component": true
+  },
+  "V23_BUILDING_GREEN_CERAMIC": {
+    "identity_family": "green",
+    "material_family": "ceramic",
+    "roughness": 0.52,
+    "metalness": 0,
+    "palette_source_id": "realistic-source-cream-v18-022",
+    "texture": {
+      "enabled": true,
+      "pattern": "tile",
+      "seed": 4219981528,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "finish": {
+      "highlight": 1,
+      "reflection": 1,
+      "density": 1,
+      "detail": 0,
+      "pattern": 0
+    },
+    "material_response": {
+      "kind": 13,
+      "roughness": 0.52,
+      "specular": 0.2,
+      "reflection": 0.025,
+      "detail": 0.004,
+      "density": 12,
+      "reference": "F4.3",
+      "label": "釉陶 · 柔和釉层",
+      "profile": "ceramic",
+      "revision": "material-response-v1-20261008"
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "source_material_id": "green",
+    "intrinsic_reference_color": "#4D9475",
+    "role_id": 5,
+    "label": "V23_BUILDING_GREEN_CERAMIC",
+    "tones": {
+      "bright": "#42C89D",
+      "gray_1": "#43B496",
+      "gray_2": "#429885",
+      "dark": "#3F766F"
+    },
+    "bright": "#42C89D",
+    "original_tones": {
+      "bright": "#42C89D",
+      "gray_1": "#43B496",
+      "gray_2": "#429885",
+      "dark": "#3F766F"
+    },
+    "requested_tones": {
+      "bright": "#42C89D",
+      "gray_1": "#43B496",
+      "gray_2": "#429885",
+      "dark": "#3F766F"
+    },
+    "authority": "Per-object + material-slot recipe with requested_tones/source IDs. Default realistic source recorded; cream/memphis remain distinct variants. Do not flatten object mappings to name-only roles.",
+    "source_recipe_target": "[\"WestGate_beam\",0]",
+    "region_color": "#056DF3"
+  },
+  "V23_BUILDING_RED_WOOD": {
+    "identity_family": "red",
+    "material_family": "wood",
+    "roughness": 0.76,
+    "metalness": 0,
+    "palette_source_id": "realistic-source-cream-v18-001",
+    "texture": {
+      "enabled": true,
+      "pattern": "wood",
+      "seed": 2457825960,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "finish": {
+      "highlight": 1,
+      "reflection": 1,
+      "density": 1,
+      "detail": 0,
+      "pattern": 0
+    },
+    "material_response": {
+      "kind": 8,
+      "roughness": 0.76,
+      "specular": 0.032,
+      "reflection": 0,
+      "detail": 0.009,
+      "density": 18,
+      "reference": "F3.3",
+      "label": "木件 · 顺纹短段",
+      "profile": "wood",
+      "revision": "material-response-v1-20261008"
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "source_material_id": "red",
+    "intrinsic_reference_color": "#C64D46",
+    "role_id": 6,
+    "label": "V23_BUILDING_RED_WOOD",
+    "tones": {
+      "bright": "#E42A12",
+      "gray_1": "#CE261C",
+      "gray_2": "#AE2A28",
+      "dark": "#873035"
+    },
+    "bright": "#E42A12",
+    "original_tones": {
+      "bright": "#E42A12",
+      "gray_1": "#CE261C",
+      "gray_2": "#AE2A28",
+      "dark": "#873035"
+    },
+    "requested_tones": {
+      "bright": "#E42A12",
+      "gray_1": "#CE261C",
+      "gray_2": "#AE2A28",
+      "dark": "#873035"
+    },
+    "authority": "Per-object + material-slot recipe with requested_tones/source IDs. Default realistic source recorded; cream/memphis remain distinct variants. Do not flatten object mappings to name-only roles.",
+    "source_recipe_target": "[\"WestGate_column0\",0]",
+    "region_color": "#06B68A"
+  },
+  "V23_BUILDING_BLUE_COATED_METAL": {
+    "identity_family": "blue",
+    "material_family": "coated_metal",
+    "roughness": 0.43,
+    "metalness": 0,
+    "palette_source_id": "realistic-source-cream-v18-004",
+    "texture": {
+      "enabled": true,
+      "pattern": "metal",
+      "seed": 1974973925,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "finish": {
+      "highlight": 1,
+      "reflection": 1,
+      "density": 1,
+      "detail": 0,
+      "pattern": 0
+    },
+    "material_response": {
+      "kind": 2,
+      "roughness": 0.43,
+      "specular": 0.3,
+      "reflection": 0.085,
+      "detail": 0.006,
+      "density": 10,
+      "reference": "F2.1",
+      "label": "涂层金属板 · 接缝节奏",
+      "profile": "coated_panel",
+      "revision": "material-response-v1-20261008"
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "source_material_id": "blue",
+    "intrinsic_reference_color": "#407FB8",
+    "role_id": 7,
+    "label": "V23_BUILDING_BLUE_COATED_METAL",
+    "tones": {
+      "bright": "#2896D4",
+      "gray_1": "#2D83BF",
+      "gray_2": "#336EA1",
+      "dark": "#36587D"
+    },
+    "bright": "#2896D4",
+    "original_tones": {
+      "bright": "#2896D4",
+      "gray_1": "#2D83BF",
+      "gray_2": "#336EA1",
+      "dark": "#36587D"
+    },
+    "requested_tones": {
+      "bright": "#2896D4",
+      "gray_1": "#2D83BF",
+      "gray_2": "#336EA1",
+      "dark": "#36587D"
+    },
+    "authority": "Per-object + material-slot recipe with requested_tones/source IDs. Default realistic source recorded; cream/memphis remain distinct variants. Do not flatten object mappings to name-only roles.",
+    "source_recipe_target": "[\"WestGate_plaque\",0]",
+    "region_color": "#07FF21"
+  }
+}

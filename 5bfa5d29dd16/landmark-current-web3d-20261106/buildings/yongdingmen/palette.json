@@ -1,0 +1,252 @@
+{
+  "stone_gray": {
+    "material_family": "brick",
+    "roughness": 0.91,
+    "metalness": 0,
+    "basis": "2026-10-29 independent candidate; inspected identity photographs, authored color interpretation not measured albedo or approved-library replacement.",
+    "role_id": 2,
+    "label": "stone_gray",
+    "tones": {
+      "bright": "#B7B4AA",
+      "gray_1": "#9D9C94",
+      "gray_2": "#838680",
+      "dark": "#696F6B"
+    },
+    "bright": "#B7B4AA",
+    "original_tones": {
+      "bright": "#B7B4AA",
+      "gray_1": "#9D9C94",
+      "gray_2": "#838680",
+      "dark": "#696F6B"
+    },
+    "requested_tones": null,
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": null,
+    "region_color": "#02922E"
+  },
+  "stone": {
+    "material_family": "rough_stone",
+    "roughness": 0.88,
+    "metalness": 0,
+    "basis": "2026-10-29 independent candidate; inspected identity photographs, authored color interpretation not measured albedo or approved-library replacement.",
+    "role_id": 3,
+    "label": "stone",
+    "tones": {
+      "bright": "#E7E3D9",
+      "gray_1": "#CDC9BE",
+      "gray_2": "#ADA99F",
+      "dark": "#89877F"
+    },
+    "bright": "#E7E3D9",
+    "original_tones": {
+      "bright": "#E7E3D9",
+      "gray_1": "#CDC9BE",
+      "gray_2": "#ADA99F",
+      "dark": "#89877F"
+    },
+    "requested_tones": null,
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": null,
+    "region_color": "#03DBC5"
+  },
+  "wall_red": {
+    "material_family": "painted_plaster",
+    "roughness": 0.9,
+    "metalness": 0,
+    "basis": "2026-10-29 independent candidate; inspected identity photographs, authored color interpretation not measured albedo or approved-library replacement.",
+    "role_id": 4,
+    "label": "wall_red",
+    "tones": {
+      "bright": "#C86350",
+      "gray_1": "#AF5142",
+      "gray_2": "#934237",
+      "dark": "#75352F"
+    },
+    "bright": "#C86350",
+    "original_tones": {
+      "bright": "#C86350",
+      "gray_1": "#AF5142",
+      "gray_2": "#934237",
+      "dark": "#75352F"
+    },
+    "requested_tones": null,
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": null,
+    "region_color": "#04245C"
+  },
+  "door_dark": {
+    "material_family": "painted_wood",
+    "roughness": 0.66,
+    "metalness": 0,
+    "basis": "2026-10-29 independent candidate; inspected identity photographs, authored color interpretation not measured albedo or approved-library replacement.",
+    "role_id": 5,
+    "label": "door_dark",
+    "tones": {
+      "bright": "#685951",
+      "gray_1": "#584B45",
+      "gray_2": "#483D39",
+      "dark": "#392F2D"
+    },
+    "bright": "#685951",
+    "original_tones": {
+      "bright": "#685951",
+      "gray_1": "#584B45",
+      "gray_2": "#483D39",
+      "dark": "#392F2D"
+    },
+    "requested_tones": null,
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": null,
+    "region_color": "#056DF3"
+  },
+  "wood_red": {
+    "material_family": "painted_wood",
+    "roughness": 0.53,
+    "metalness": 0,
+    "basis": "2026-10-29 independent candidate; inspected identity photographs, authored color interpretation not measured albedo or approved-library replacement.",
+    "role_id": 6,
+    "label": "wood_red",
+    "tones": {
+      "bright": "#C65643",
+      "gray_1": "#AA4436",
+      "gray_2": "#89382F",
+      "dark": "#682B29"
+    },
+    "bright": "#C65643",
+    "original_tones": {
+      "bright": "#C65643",
+      "gray_1": "#AA4436",
+      "gray_2": "#89382F",
+      "dark": "#682B29"
+    },
+    "requested_tones": null,
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": null,
+    "region_color": "#06B68A"
+  },
+  "paint_teal": {
+    "material_family": "painted_wood",
+    "roughness": 0.54,
+    "metalness": 0,
+    "basis": "2026-10-29 independent candidate; inspected identity photographs, authored color interpretation not measured albedo or approved-library replacement.",
+    "role_id": 7,
+    "label": "paint_teal",
+    "tones": {
+      "bright": "#39828A",
+      "gray_1": "#2E6E75",
+      "gray_2": "#265B63",
+      "dark": "#204951"
+    },
+    "bright": "#39828A",
+    "original_tones": {
+      "bright": "#39828A",
+      "gray_1": "#2E6E75",
+      "gray_2": "#265B63",
+      "dark": "#204951"
+    },
+    "requested_tones": null,
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": null,
+    "region_color": "#07FF21"
+  },
+  "roof_gray": {
+    "material_family": "ceramic",
+    "roughness": 0.7,
+    "metalness": 0,
+    "basis": "2026-10-29 independent candidate; inspected identity photographs, authored color interpretation not measured albedo or approved-library replacement.",
+    "role_id": 8,
+    "label": "roof_gray",
+    "tones": {
+      "bright": "#95948D",
+      "gray_1": "#7D807A",
+      "gray_2": "#656D68",
+      "dark": "#4E5955"
+    },
+    "bright": "#95948D",
+    "original_tones": {
+      "bright": "#95948D",
+      "gray_1": "#7D807A",
+      "gray_2": "#656D68",
+      "dark": "#4E5955"
+    },
+    "requested_tones": null,
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": null,
+    "region_color": "#0848B8"
+  },
+  "roof_edge": {
+    "material_family": "ceramic",
+    "roughness": 0.62,
+    "metalness": 0,
+    "basis": "2026-10-29 independent candidate; inspected identity photographs, authored color interpretation not measured albedo or approved-library replacement.",
+    "role_id": 9,
+    "label": "roof_edge",
+    "tones": {
+      "bright": "#A0A197",
+      "gray_1": "#858C82",
+      "gray_2": "#6B786E",
+      "dark": "#536256"
+    },
+    "bright": "#A0A197",
+    "original_tones": {
+      "bright": "#A0A197",
+      "gray_1": "#858C82",
+      "gray_2": "#6B786E",
+      "dark": "#536256"
+    },
+    "requested_tones": null,
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": null,
+    "region_color": "#09914F"
+  },
+  "plaque": {
+    "material_family": "painted_wood",
+    "roughness": 0.65,
+    "metalness": 0,
+    "basis": "2026-10-29 independent candidate; inspected identity photographs, authored color interpretation not measured albedo or approved-library replacement.",
+    "role_id": 10,
+    "label": "plaque",
+    "tones": {
+      "bright": "#3F627A",
+      "gray_1": "#355368",
+      "gray_2": "#2C4457",
+      "dark": "#253747"
+    },
+    "bright": "#3F627A",
+    "original_tones": {
+      "bright": "#3F627A",
+      "gray_1": "#355368",
+      "gray_2": "#2C4457",
+      "dark": "#253747"
+    },
+    "requested_tones": null,
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": null,
+    "region_color": "#0ADAE6"
+  },
+  "plaque_glyph_gold": {
+    "material_family": "painted_wood",
+    "roughness": 0.62,
+    "metalness": 0,
+    "basis": "New candidate glyph gold paint for legibility, not approved library allocation; not measured historical albedo.",
+    "role_id": 11,
+    "label": "plaque_glyph_gold",
+    "tones": {
+      "bright": "#E4C779",
+      "gray_1": "#C9AA62",
+      "gray_2": "#A78B50",
+      "dark": "#826B3F"
+    },
+    "bright": "#E4C779",
+    "original_tones": {
+      "bright": "#E4C779",
+      "gray_1": "#C9AA62",
+      "gray_2": "#A78B50",
+      "dark": "#826B3F"
+    },
+    "requested_tones": null,
+    "authority": "Own latest candidate role palette, not approved-library replacement; original reference source IDs may be absent. Preserve identity and report provenance; do not import China Zun palette.",
+    "source_recipe_target": null,
+    "region_color": "#0B237D"
+  }
+}

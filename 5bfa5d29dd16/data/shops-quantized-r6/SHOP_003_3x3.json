@@ -1,0 +1,168 @@
+{
+  "schema": "qianyu-shop-quantized/1",
+  "modelKey": "SHOP_003_3x3",
+  "kind": "SHOP_003",
+  "vertexCount": 229390,
+  "indexCount": 259047,
+  "triangles": 86349,
+  "positionScale": 2.0,
+  "meshScaleRule": "Set child mesh.scale uniformly to positionScale, then keep original parent/root runtimeModel.scale and rotation/translation unchanged. Never scale translation by positionScale.",
+  "attributes": {
+    "position": {
+      "componentType": "int16",
+      "itemSize": 3,
+      "normalized": true,
+      "byteOffset": 0,
+      "byteLength": 1376340,
+      "count": 229390
+    },
+    "normal": {
+      "componentType": "int16",
+      "itemSize": 3,
+      "normalized": true,
+      "byteOffset": 1376340,
+      "byteLength": 1376340,
+      "count": 229390
+    },
+    "color": {
+      "componentType": "uint8",
+      "itemSize": 3,
+      "normalized": true,
+      "byteOffset": 2752680,
+      "byteLength": 688170,
+      "count": 229390,
+      "colorEncoding": "srgb-display"
+    }
+  },
+  "index": {
+    "componentType": "uint32",
+    "itemSize": 1,
+    "normalized": false,
+    "byteOffset": 3440852,
+    "byteLength": 1036188,
+    "count": 259047,
+    "encoding": "delta-modulo",
+    "decodedSha256": "25dfa8ec09befe1c0e1868beb66037964b481bb72d3905824ad87019bc38219b",
+    "encodedSha256": "81e640c2e0fd1f35746cd1f497e57b6a9d9d8df0ce17f0ae6d91aff3d1e0579e"
+  },
+  "pack": {
+    "url": "/data/shops-quantized-r6/SHOP_003_3x3.bin.gz",
+    "byteLength": 4477040,
+    "compressedBytes": 500402,
+    "sha256": "70fed2631d4e83a9bf50a159cf09c98ca8fb40dc80e145395d0b4d237afd52f1",
+    "expandedSha256": "2995a48981c2dd89b2e8817f50096293f73a030a51fc6373a07ef2e67c51c29f"
+  },
+  "boundsZUpOriginal": [
+    [
+      -1.1274999380111694,
+      -1.1325000524520874,
+      0.0
+    ],
+    [
+      1.1190000772476196,
+      1.090499997138977,
+      1.6288923025131226
+    ]
+  ],
+  "boundsZUpDecoded": [
+    [
+      -1.1274758140812402,
+      -1.1324808496353038,
+      0.0
+    ],
+    [
+      1.118991668446913,
+      1.0904873805963318,
+      1.628894924771874
+    ]
+  ],
+  "sourceExpandedSha256": "257507aad258b98090671f36d8a71c10d0ae0eb4405814ac3501cc9d3c1e2096",
+  "sourceIndexedManifestSha256": "d7ed745c5a9477e19caaec5dcdaebbb94993ba791cd36c56fd30f327de743659",
+  "sourceIndexedVertexSha256": "faa9b87ff3674b8f7668b88ffb3a3b3caf32c28de2d5f341c25f44bb9e2f6d81",
+  "sourceStatus": "CANDIDATE_REQUIRES_REVIEW",
+  "sourceArtApproved": false,
+  "runtimeTextures": 0,
+  "preservedVertexOrder": true,
+  "preservedIndexOrder": true,
+  "losslessGeometry": false,
+  "quantizationOnly": true,
+  "normalsUniformScaleInvariant": true,
+  "shaderColorRule": "Convert normalized display sRGB vColor.rgb to linear in vertex shader; do not convert alpha or use CPU expanded color arrays.",
+  "validation": {
+    "modelKey": "SHOP_003_3x3",
+    "vertexCount": 229390,
+    "triangles": 86349,
+    "positionScale": 2.0,
+    "sourceIndexedGeometryBytes": 9294228,
+    "quantizedGeometryBytes": 4477040,
+    "sourceIndexedGzipBytes": 1319966,
+    "quantizedGzipBytes": 500402,
+    "positionMaximumLocalEuclideanErrorU": 5.150454618962028e-05,
+    "positionMaximumLocalComponentErrorU": 3.0517312544442454e-05,
+    "positionTheoreticalComponentBoundU": 3.051850947599719e-05,
+    "maximumWorldPositionEuclideanErrorU": 3.4336364126413515e-05,
+    "maximumNormalAngularErrorDegrees": 0.0013757446371932087,
+    "zeroSourceNormalCount": 0,
+    "zeroDecodedNormalCount": 0,
+    "maximumRGBAbsoluteError": 4.511253504091428e-08,
+    "rgbHalfStepLimit": 0.00196078431372549,
+    "rgbGate": true,
+    "positionGate": true,
+    "indicesUnchanged": true,
+    "sourceColorRange": [
+      [
+        0.14117646217346191,
+        0.20000000298023224,
+        0.19607843458652496
+      ],
+      [
+        1.0,
+        0.9686274528503418,
+        1.0
+      ]
+    ],
+    "normalSourceLengthRange": [
+      0.9999999561094935,
+      1.0000000381317105
+    ],
+    "boundsOriginal": [
+      [
+        -1.1274999380111694,
+        -1.1325000524520874,
+        0.0
+      ],
+      [
+        1.1190000772476196,
+        1.090499997138977,
+        1.6288923025131226
+      ]
+    ],
+    "boundsDecoded": [
+      [
+        -1.1274758140812402,
+        -1.1324808496353038,
+        0.0
+      ],
+      [
+        1.118991668446913,
+        1.0904873805963318,
+        1.628894924771874
+      ]
+    ],
+    "instances": [
+      {
+        "instanceId": "np26:shop:Teddy宠物医院1",
+        "runtimeScale": 0.6666666666666666,
+        "maximumWorldPositionEuclideanErrorU": 3.4336364126413515e-05,
+        "maximumWorldComponentErrorUpperBoundU": 2.03448750296283e-05,
+        "originalRootNative": [
+          7.0,
+          20.0,
+          0.02399999896685282
+        ],
+        "rotateZ": 0
+      }
+    ],
+    "sourceExpandedSha256": "257507aad258b98090671f36d8a71c10d0ae0eb4405814ac3501cc9d3c1e2096"
+  }
+}

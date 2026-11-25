@@ -1,0 +1,62 @@
+{
+  "V23_BUILDING_STONE_ROUGH_STONE": {
+    "role_id": 1,
+    "tones": {
+      "bright": "#FAF0D9",
+      "gray_1": "#E1D8C7",
+      "gray_2": "#BBB4AA",
+      "dark": "#918C86"
+    },
+    "region_color": "#D6CCB9",
+    "roughness": 0.8,
+    "metalness": 0
+  },
+  "V23_BUILDING_WHITE_ROUGH_STONE": {
+    "role_id": 2,
+    "tones": {
+      "bright": "#E6EFF7",
+      "gray_1": "#CCD1D9",
+      "gray_2": "#B1B4BA",
+      "dark": "#909296"
+    },
+    "region_color": "#F0EEE8",
+    "roughness": 0.8,
+    "metalness": 0
+  },
+  "V23_BUILDING_GRAY_GLASS_STYLIZED": {
+    "role_id": 3,
+    "tones": {
+      "bright": "#7C8894",
+      "gray_1": "#6B737D",
+      "gray_2": "#585C63",
+      "dark": "#43454A"
+    },
+    "region_color": "#A9ADB3",
+    "roughness": 0.22,
+    "metalness": 0
+  },
+  "V23_BUILDING_GOLD_BARE_METAL": {
+    "role_id": 4,
+    "tones": {
+      "bright": "#F0D499",
+      "gray_1": "#E2CEAC",
+      "gray_2": "#B0A18D",
+      "dark": "#897E72"
+    },
+    "region_color": "#E4B445",
+    "roughness": 0.34,
+    "metalness": 1
+  },
+  "V23_BUILDING_GRAY_CERAMIC": {
+    "role_id": 5,
+    "tones": {
+      "bright": "#7C8894",
+      "gray_1": "#6B737D",
+      "gray_2": "#585C63",
+      "dark": "#43454A"
+    },
+    "region_color": "#A9ADB3",
+    "roughness": 0.42,
+    "metalness": 0
+  }
+}

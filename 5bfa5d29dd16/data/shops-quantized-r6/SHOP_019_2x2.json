@@ -1,0 +1,168 @@
+{
+  "schema": "qianyu-shop-quantized/1",
+  "modelKey": "SHOP_019_2x2",
+  "kind": "SHOP_019",
+  "vertexCount": 128159,
+  "indexCount": 150624,
+  "triangles": 50208,
+  "positionScale": 2.0,
+  "meshScaleRule": "Set child mesh.scale uniformly to positionScale, then keep original parent/root runtimeModel.scale and rotation/translation unchanged. Never scale translation by positionScale.",
+  "attributes": {
+    "position": {
+      "componentType": "int16",
+      "itemSize": 3,
+      "normalized": true,
+      "byteOffset": 0,
+      "byteLength": 768954,
+      "count": 128159
+    },
+    "normal": {
+      "componentType": "int16",
+      "itemSize": 3,
+      "normalized": true,
+      "byteOffset": 768954,
+      "byteLength": 768954,
+      "count": 128159
+    },
+    "color": {
+      "componentType": "uint8",
+      "itemSize": 3,
+      "normalized": true,
+      "byteOffset": 1537908,
+      "byteLength": 384477,
+      "count": 128159,
+      "colorEncoding": "srgb-display"
+    }
+  },
+  "index": {
+    "componentType": "uint32",
+    "itemSize": 1,
+    "normalized": false,
+    "byteOffset": 1922388,
+    "byteLength": 602496,
+    "count": 150624,
+    "encoding": "delta-modulo",
+    "decodedSha256": "5ec96ad732f8c7ae955a82a05f20728a68bee00e6e58a2fcd394c4a005951883",
+    "encodedSha256": "3789e4dba1eb11638a103be95d3d8581625f64e626574437e37c5c684d417073"
+  },
+  "pack": {
+    "url": "/data/shops-quantized-r6/SHOP_019_2x2.bin.gz",
+    "byteLength": 2524884,
+    "compressedBytes": 281774,
+    "sha256": "df5162c8417fb9a1784ffdf311015e627393cb8928069e2102b1bca66e2af964",
+    "expandedSha256": "9c9a936e549a4d0e62f844d41a3b022e1d969c7b34d6305f2b8b2abfb0eef0a1"
+  },
+  "boundsZUpOriginal": [
+    [
+      -0.7172586917877197,
+      -0.6985591650009155,
+      0.0
+    ],
+    [
+      0.7025662660598755,
+      0.7110255360603333,
+      1.265985369682312
+    ]
+  ],
+  "boundsZUpDecoded": [
+    [
+      -0.7172460097048861,
+      -0.6985686819055758,
+      0.0
+    ],
+    [
+      0.7025360881374554,
+      0.7110202337717826,
+      1.2659688100833155
+    ]
+  ],
+  "sourceExpandedSha256": "0c2cd7b02e0168064284f62ea8650fd5a4b298a984c6d9b712e5298dde152451",
+  "sourceIndexedManifestSha256": "a431f51857646939465c75465162cf57445225ad6a36d031bf8cd1c520f1362a",
+  "sourceIndexedVertexSha256": "2d62925212e04eddf99839d1243bb156a9ca8be58919a862d419fc098b88fde8",
+  "sourceStatus": "CANDIDATE_REQUIRES_REVIEW",
+  "sourceArtApproved": false,
+  "runtimeTextures": 0,
+  "preservedVertexOrder": true,
+  "preservedIndexOrder": true,
+  "losslessGeometry": false,
+  "quantizationOnly": true,
+  "normalsUniformScaleInvariant": true,
+  "shaderColorRule": "Convert normalized display sRGB vColor.rgb to linear in vertex shader; do not convert alpha or use CPU expanded color arrays.",
+  "validation": {
+    "modelKey": "SHOP_019_2x2",
+    "vertexCount": 128159,
+    "triangles": 50208,
+    "positionScale": 2.0,
+    "sourceIndexedGeometryBytes": 5216220,
+    "quantizedGeometryBytes": 2524884,
+    "sourceIndexedGzipBytes": 735992,
+    "quantizedGzipBytes": 281774,
+    "positionMaximumLocalEuclideanErrorU": 5.1502502684924416e-05,
+    "positionMaximumLocalComponentErrorU": 3.0517532535183356e-05,
+    "positionTheoreticalComponentBoundU": 3.051850947599719e-05,
+    "maximumWorldPositionEuclideanErrorU": 5.1502502684924416e-05,
+    "maximumNormalAngularErrorDegrees": 0.0014151776575439246,
+    "zeroSourceNormalCount": 0,
+    "zeroDecodedNormalCount": 0,
+    "maximumRGBAbsoluteError": 4.511253504091428e-08,
+    "rgbHalfStepLimit": 0.00196078431372549,
+    "rgbGate": true,
+    "positionGate": true,
+    "indicesUnchanged": true,
+    "sourceColorRange": [
+      [
+        0.14117646217346191,
+        0.20000000298023224,
+        0.08235294371843338
+      ],
+      [
+        1.0,
+        0.9686274528503418,
+        1.0
+      ]
+    ],
+    "normalSourceLengthRange": [
+      0.9999999615683236,
+      1.0000000381317116
+    ],
+    "boundsOriginal": [
+      [
+        -0.7172586917877197,
+        -0.6985591650009155,
+        0.0
+      ],
+      [
+        0.7025662660598755,
+        0.7110255360603333,
+        1.265985369682312
+      ]
+    ],
+    "boundsDecoded": [
+      [
+        -0.7172460097048861,
+        -0.6985686819055758,
+        0.0
+      ],
+      [
+        0.7025360881374554,
+        0.7110202337717826,
+        1.2659688100833155
+      ]
+    ],
+    "instances": [
+      {
+        "instanceId": "np26:shop:东风快递站1",
+        "runtimeScale": 1.0,
+        "maximumWorldPositionEuclideanErrorU": 5.1502502684924416e-05,
+        "maximumWorldComponentErrorUpperBoundU": 3.0517532535183356e-05,
+        "originalRootNative": [
+          10.0,
+          35.0,
+          0.023999999940395353
+        ],
+        "rotateZ": 0
+      }
+    ],
+    "sourceExpandedSha256": "0c2cd7b02e0168064284f62ea8650fd5a4b298a984c6d9b712e5298dde152451"
+  }
+}

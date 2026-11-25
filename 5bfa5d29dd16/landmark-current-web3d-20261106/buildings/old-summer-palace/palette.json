@@ -1,0 +1,128 @@
+{
+  "C1": {
+    "identity_family": "stone",
+    "material_family": "rough_stone",
+    "roughness": 0.84,
+    "metalness": 0,
+    "palette_source_id": "realistic-source-cream-v18-034",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 4087754576,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "finish": {
+      "highlight": 1,
+      "reflection": 1,
+      "density": 1,
+      "detail": 0,
+      "pattern": 0
+    },
+    "material_response": {
+      "kind": 9,
+      "roughness": 0.84,
+      "specular": 0.045,
+      "reflection": 0.005,
+      "detail": 0.006,
+      "density": 12,
+      "reference": "F3.4",
+      "label": "结构石材 · 低对比纹理",
+      "profile": "stone",
+      "revision": "material-response-v1-20261008"
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "source_material_id": "BBS_MAT_NeutralStoneLight",
+    "intrinsic_reference_color": "#D6CCB9",
+    "role_id": 2,
+    "label": "C1",
+    "tones": {
+      "bright": "#D6CCB9",
+      "gray_1": "#BCB6A5",
+      "gray_2": "#9E9B8E",
+      "dark": "#7C7B72"
+    },
+    "bright": "#D6CCB9",
+    "original_tones": {
+      "bright": "#D6CCB9",
+      "gray_1": "#BCB6A5",
+      "gray_2": "#9E9B8E",
+      "dark": "#7C7B72"
+    },
+    "requested_tones": {
+      "bright": "#D6CCB9",
+      "gray_1": "#BCB6A5",
+      "gray_2": "#9E9B8E",
+      "dark": "#7C7B72"
+    },
+    "authority": "Per-object + material-slot recipe with requested_tones/source IDs. Default realistic source recorded; cream/memphis remain distinct variants. Do not flatten object mappings to name-only roles.",
+    "source_recipe_target": "[\"Axis_Broken_Course\",0]",
+    "region_color": "#02922E"
+  },
+  "V25_BUILDING_BBS_MAT_PavingNeutral": {
+    "identity_family": "stone",
+    "material_family": "rough_stone",
+    "roughness": 0.84,
+    "metalness": 0,
+    "palette_source_id": "realistic-source-cream-v18-034",
+    "texture": {
+      "enabled": true,
+      "pattern": "stone_blocks",
+      "seed": 4087754576,
+      "mapping": "DOMINANT_NORMAL_WORLD_PROJECTION",
+      "target_pixel_scale": 6,
+      "mean_policy": "SYMMETRIC_SIGNED_RGB_NO_GRAY_MULTIPLY",
+      "color_space": "Linear-sRGB",
+      "amplitude": 0.006
+    },
+    "finish": {
+      "highlight": 1,
+      "reflection": 1,
+      "density": 1,
+      "detail": 0,
+      "pattern": 0
+    },
+    "material_response": {
+      "kind": 9,
+      "roughness": 0.84,
+      "specular": 0.045,
+      "reflection": 0.005,
+      "detail": 0.006,
+      "density": 12,
+      "reference": "F3.4",
+      "label": "结构石材 · 低对比纹理",
+      "profile": "stone",
+      "revision": "material-response-v1-20261008"
+    },
+    "display_target_mode": "AGX_POST_VIEW_PALETTE_ANCHOR",
+    "source_material_id": "BBS_MAT_PavingNeutral",
+    "intrinsic_reference_color": "#D6CCB9",
+    "role_id": 3,
+    "label": "V25_BUILDING_BBS_MAT_PavingNeutral",
+    "tones": {
+      "bright": "#D6CCB9",
+      "gray_1": "#BCB6A5",
+      "gray_2": "#9E9B8E",
+      "dark": "#7C7B72"
+    },
+    "bright": "#D6CCB9",
+    "original_tones": {
+      "bright": "#D6CCB9",
+      "gray_1": "#BCB6A5",
+      "gray_2": "#9E9B8E",
+      "dark": "#7C7B72"
+    },
+    "requested_tones": {
+      "bright": "#D6CCB9",
+      "gray_1": "#BCB6A5",
+      "gray_2": "#9E9B8E",
+      "dark": "#7C7B72"
+    },
+    "authority": "Per-object + material-slot recipe with requested_tones/source IDs. Default realistic source recorded; cream/memphis remain distinct variants. Do not flatten object mappings to name-only roles.",
+    "source_recipe_target": "[\"Paving_North_Ruin_Platform\",0]",
+    "region_color": "#03DBC5"
+  }
+}

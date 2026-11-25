@@ -1,0 +1,30 @@
+{
+  "referenceSize": [
+    1688,
+    780
+  ],
+  "colors": {
+    "purple": "#cd69d2",
+    "cyan": "#47b6e5"
+  },
+  "layers": [
+    "panel-fill",
+    "button-fill",
+    "button-outline",
+    "replaceable-icon",
+    "scrim-shade",
+    "scrim-grain",
+    "portrait-hair",
+    "portrait-face",
+    "portrait-cap",
+    "portrait-stitches"
+  ],
+  "states": {
+    "play": "reference1",
+    "edit": "reference2",
+    "interaction": "reference3"
+  },
+  "dice": "lib/dice-3d.js (real mesh; no textures)",
+  "referenceMotionUrl": "https://www.nintendo.com/tw/games/switch2/aadla/",
+  "motionNote": "Web adaptation: snappy stepped/staggered panel entry and grain overlay, not an extracted UE implementation."
+}

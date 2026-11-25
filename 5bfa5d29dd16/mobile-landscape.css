@@ -1,0 +1,31 @@
+/* Preserve the existing paper/blue controls, using the short edge for phone HUD. */
+html{-webkit-text-size-adjust:100%}
+#orientation-notice{position:fixed;inset:0;z-index:100;display:grid;place-content:center;justify-items:center;gap:18px;padding:max(28px,env(safe-area-inset-top)) max(24px,env(safe-area-inset-right)) max(28px,env(safe-area-inset-bottom)) max(24px,env(safe-area-inset-left));background:#bfd9dc;color:var(--ink);text-align:center}
+#orientation-notice h2{font-size:28px;margin:0}#orientation-notice p{max-width:28ch;font-size:14px;line-height:1.8;margin:0;color:#42636b}
+.orientation-phone{width:92px;height:50px;border:3px solid #376e8d;border-radius:10px;position:relative;margin-bottom:6px}.orientation-phone:after{content:'';position:absolute;right:6px;top:19px;width:5px;height:5px;border-radius:50%;background:#376e8d}
+#orientation-enter{min-height:48px;padding:12px 28px;border-radius:24px;background:var(--blue);color:white}#orientation-enter:active{background:#2d5c77}
+@media(pointer:coarse) and (orientation:landscape) and (max-height:600px){
+ :root{--phone-left:max(12px,env(safe-area-inset-left));--phone-right:max(12px,env(safe-area-inset-right));--phone-top:max(8px,env(safe-area-inset-top));--phone-bottom:max(8px,env(safe-area-inset-bottom))}
+ header{left:var(--phone-left);right:auto;top:var(--phone-top);gap:6px}
+ nav{gap:5px;max-width:calc(100vw - 150px);width:auto}nav button{font-size:12px;min-height:44px;padding:8px 12px}nav kbd{display:none}
+ body.editor-mode nav{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none}body.editor-mode nav button{flex-shrink:0}
+ body:not(.editor-mode) nav{width:86px}body:not(.editor-mode) nav button{min-height:44px;padding:8px 10px}
+ #minimap{top:var(--phone-top);right:var(--phone-right);width:88px;height:88px;bottom:auto}
+ #dice-panel{right:var(--phone-right);bottom:var(--phone-bottom);width:128px;padding:8px;border-radius:20px;backdrop-filter:none}
+ #dice-roll{min-height:86px;border-radius:14px}#dice-face{width:60px;height:60px;transform:scale(.65);margin:-8px 0}#dice-value{font-size:12px;margin-top:0}
+ #dice-status{font-size:10px;line-height:1.4;margin:6px 0 0}#dice-directions:empty{display:none}
+ .bottom{left:var(--phone-left);right:auto;bottom:var(--phone-bottom)}.bottom button{min-height:44px;padding:9px 14px}.bottom small{display:none}
+ #landscape-panel{left:var(--phone-left);right:auto;top:calc(var(--phone-top) + 50px);bottom:var(--phone-bottom);width:min(370px,calc(100vw - 170px));max-height:calc(100dvh - 66px);padding:16px}
+ #landscape-panel .panel-top{position:sticky;top:-16px;background:#f8faf5f5;z-index:1;padding:6px 0}#landscape-panel select{font-size:16px}
+ .panel-top button,.close{min-width:44px;min-height:44px}
+ #book,#help-panel{left:var(--phone-left);right:auto;top:calc(var(--phone-top) + 50px);bottom:var(--phone-bottom);width:min(370px,calc(100vw - 170px));max-height:calc(100dvh - 66px);padding:16px;overflow:auto}
+ #dialogue{top:var(--phone-top);bottom:var(--phone-bottom);width:min(680px,calc(100vw - 32px - env(safe-area-inset-left) - env(safe-area-inset-right)));max-height:calc(100dvh - 16px);padding:16px 24px}
+ #story-text{font-size:16px;line-height:1.7;margin:12px 0}#choices button{min-height:44px}
+ #touch-controls{display:block;left:var(--phone-left);bottom:calc(var(--phone-bottom) + 50px)}#touch-controls button{width:44px;height:44px;margin:1px}
+ #day-panel{left:var(--phone-left);right:calc(var(--phone-right) + 145px);bottom:calc(var(--phone-bottom) + 50px);max-height:calc(100dvh - 116px);padding:12px}#day-tracks{max-height:90px}
+ #scene-list{right:var(--phone-right);top:calc(var(--phone-top) + 96px);bottom:calc(var(--phone-bottom) + 145px);width:180px;max-height:none;padding:10px}
+ #day-event-card{left:110px;right:auto;top:60px;bottom:12px;width:min(350px,calc(100vw - 270px));max-width:none;max-height:calc(100dvh - 72px)}
+ #hover{font-size:12px;padding:6px 10px}#toast{top:60px;max-width:70vw}
+ #welcome .loading-content{width:min(480px,70vw)}
+ button{user-select:none;-webkit-user-select:none;-webkit-touch-callout:none}
+}

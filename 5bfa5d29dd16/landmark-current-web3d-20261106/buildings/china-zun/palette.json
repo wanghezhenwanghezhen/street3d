@@ -1,0 +1,122 @@
+{
+  "glass_blue": {
+    "bright": "#35B4E3",
+    "tones": {
+      "bright": "#35B4E3",
+      "gray_1": "#399DCB",
+      "gray_2": "#3980B3",
+      "dark": "#3B658F"
+    },
+    "family": "glass_stylized",
+    "roughness": 0.25,
+    "metalness": 0,
+    "opacity": 1,
+    "transmission": 0,
+    "finish_enabled": true,
+    "basis": "Current user authorizes stronger glass/metal separation. Glass preserves blue family with greater chroma; metal protects near-neutral identity with lighter warm-facing tones. Current L01 source family is comparison evidence only, not a Zun allocation.",
+    "role_id": 1,
+    "label": "主体玻璃",
+    "region_color": "#27A7D3",
+    "palette_provenance": "NEW_ROLE_SCOPED_DERIVATION_FROM_ZUN_R2_NOT_APPROVED_NOT_ORIGINAL_SOURCE_RECOVERY"
+  },
+  "metal": {
+    "bright": "#FFF8E8",
+    "tones": {
+      "bright": "#FFF8E8",
+      "gray_1": "#E6E2D5",
+      "gray_2": "#C4CCCB",
+      "dark": "#9AAEB9"
+    },
+    "family": "coated_metal",
+    "roughness": 0.4,
+    "metalness": 0,
+    "opacity": 1,
+    "transmission": 0,
+    "finish_enabled": true,
+    "basis": "Current user authorizes stronger glass/metal separation. Glass preserves blue family with greater chroma; metal protects near-neutral identity with lighter warm-facing tones. Current L01 source family is comparison evidence only, not a Zun allocation.",
+    "role_id": 2,
+    "label": "纵条与金属边框",
+    "region_color": "#E7B244",
+    "palette_provenance": "NEW_ROLE_SCOPED_DERIVATION_FROM_ZUN_R2_NOT_APPROVED_NOT_ORIGINAL_SOURCE_RECOVERY"
+  },
+  "roof_pan": {
+    "bright": "#B4C8D6",
+    "tones": {
+      "bright": "#B4C8D6",
+      "gray_1": "#98ABB9",
+      "gray_2": "#7B92A2",
+      "dark": "#61798C"
+    },
+    "family": "coated_metal",
+    "roughness": 0.65,
+    "metalness": 0,
+    "opacity": 1,
+    "transmission": 0,
+    "finish_enabled": true,
+    "basis": "2026-10-29 R2 independent candidate, authored display palette following inspected reference and current user instruction; not approved library or measured albedo.",
+    "role_id": 3,
+    "label": "屋顶内底",
+    "region_color": "#6D73CB",
+    "palette_provenance": "R2_AUTHORED_PALETTE_NO_ORIGINAL_SOURCE_ID_MAPPING"
+  },
+  "roof_equipment": {
+    "bright": "#CED8DB",
+    "tones": {
+      "bright": "#CED8DB",
+      "gray_1": "#B2C1C9",
+      "gray_2": "#96A7B2",
+      "dark": "#768FA1"
+    },
+    "family": "coated_metal",
+    "roughness": 0.6,
+    "metalness": 0,
+    "opacity": 1,
+    "transmission": 0,
+    "finish_enabled": true,
+    "basis": "2026-10-29 R2 independent candidate, authored display palette following inspected reference and current user instruction; not approved library or measured albedo.",
+    "role_id": 4,
+    "label": "屋顶设备",
+    "region_color": "#4BBA8D",
+    "palette_provenance": "R2_AUTHORED_PALETTE_NO_ORIGINAL_SOURCE_ID_MAPPING"
+  },
+  "stone": {
+    "bright": "#F0EADB",
+    "tones": {
+      "bright": "#F0EADB",
+      "gray_1": "#D7D1C5",
+      "gray_2": "#B9B6AB",
+      "dark": "#949A98"
+    },
+    "family": "rough_stone",
+    "roughness": 0.83,
+    "metalness": 0,
+    "opacity": 1,
+    "transmission": 0,
+    "finish_enabled": false,
+    "basis": "2026-10-29 R2 independent candidate, authored display palette following inspected reference and current user instruction; not approved library or measured albedo.",
+    "role_id": 6,
+    "label": "石材（本模型未使用）",
+    "region_color": "#969696",
+    "palette_provenance": "R2_AUTHORED_PALETTE_NO_ORIGINAL_SOURCE_ID_MAPPING"
+  },
+  "door_dark": {
+    "bright": "#83B7CD",
+    "tones": {
+      "bright": "#83B7CD",
+      "gray_1": "#6495B2",
+      "gray_2": "#477192",
+      "dark": "#2F516F"
+    },
+    "family": "glass_stylized",
+    "roughness": 0.3,
+    "metalness": 0,
+    "opacity": 1,
+    "transmission": 0,
+    "finish_enabled": true,
+    "basis": "2026-10-29 R2 independent candidate, authored display palette following inspected reference and current user instruction; not approved library or measured albedo.",
+    "role_id": 5,
+    "label": "深色玻璃带与入口",
+    "region_color": "#D85B85",
+    "palette_provenance": "R2_AUTHORED_PALETTE_NO_ORIGINAL_SOURCE_ID_MAPPING"
+  }
+}

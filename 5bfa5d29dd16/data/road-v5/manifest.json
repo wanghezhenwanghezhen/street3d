@@ -1,0 +1,40 @@
+{
+  "schema": "qianyu-road-v5-baked/1",
+  "source": "F:\\Codex\\Projects\\2026-11-10\\new-chat-2\\outputs\\街景3D游戏交接包_20261110\\snapshot\\shared-workbench\\output\\map_workbench_unified_20260908\\roads\\road_assets_v5.blend",
+  "sourceSha256": "f91919721f26ead14ae3f8ce706bbb95eb9f4fd499ce1c5211ee87d96c370c3d",
+  "materials": {
+    "Corrected_Asphalt": {
+      "albedo": {
+        "url": "/data/road-v5/Corrected_Asphalt-albedo.png",
+        "sha256": "182af8d5f475afeea89f6d543c38b1a10f026c01a41971f4897f2fae7d933d60"
+      },
+      "height": {
+        "url": "/data/road-v5/Corrected_Asphalt-height.png",
+        "sha256": "d4a4fb6432f08a4360d9c9594d5892f02c63dc50a4315f4915dd268cacc8b69c"
+      },
+      "bumpScale": 7e-05,
+      "roughness": 0.8199999928474426
+    },
+    "Corrected_Shoulder": {
+      "albedo": {
+        "url": "/data/road-v5/Corrected_Shoulder-albedo.png",
+        "sha256": "6e90d470a2dc9862577f3d8f87a04f831c7e3d935b844ec528c1a7a2ffc6bc90"
+      },
+      "height": {
+        "url": "/data/road-v5/Corrected_Shoulder-height.png",
+        "sha256": "d4a4fb6432f08a4360d9c9594d5892f02c63dc50a4315f4915dd268cacc8b69c"
+      },
+      "bumpScale": 7e-05,
+      "roughness": 0.6800000071525574
+    }
+  },
+  "bake": {
+    "engine": "Cycles EMIT",
+    "size": 256,
+    "samples": 4,
+    "shading": "source torus 4D Noise nodes",
+    "uv": "Cell_WorldXY_1x1",
+    "sourceUnchanged": true
+  },
+  "glbSha256": "c76395799fdd0c5a3d1b5dffd48b1444bd99213168b84b8990c6ab57adfae829"
+}

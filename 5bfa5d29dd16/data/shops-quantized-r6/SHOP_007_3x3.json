@@ -1,0 +1,168 @@
+{
+  "schema": "qianyu-shop-quantized/1",
+  "modelKey": "SHOP_007_3x3",
+  "kind": "SHOP_007",
+  "vertexCount": 221821,
+  "indexCount": 255894,
+  "triangles": 85298,
+  "positionScale": 2.0,
+  "meshScaleRule": "Set child mesh.scale uniformly to positionScale, then keep original parent/root runtimeModel.scale and rotation/translation unchanged. Never scale translation by positionScale.",
+  "attributes": {
+    "position": {
+      "componentType": "int16",
+      "itemSize": 3,
+      "normalized": true,
+      "byteOffset": 0,
+      "byteLength": 1330926,
+      "count": 221821
+    },
+    "normal": {
+      "componentType": "int16",
+      "itemSize": 3,
+      "normalized": true,
+      "byteOffset": 1330926,
+      "byteLength": 1330926,
+      "count": 221821
+    },
+    "color": {
+      "componentType": "uint8",
+      "itemSize": 3,
+      "normalized": true,
+      "byteOffset": 2661852,
+      "byteLength": 665463,
+      "count": 221821,
+      "colorEncoding": "srgb-display"
+    }
+  },
+  "index": {
+    "componentType": "uint32",
+    "itemSize": 1,
+    "normalized": false,
+    "byteOffset": 3327316,
+    "byteLength": 1023576,
+    "count": 255894,
+    "encoding": "delta-modulo",
+    "decodedSha256": "a0f81e35003c957944171a481726db9bf3e335c5de59b11379e82413ca333e4f",
+    "encodedSha256": "44211e1d6c9527427e7526cd15c3c643b4c3b5793a2459b42f18ab02735048a4"
+  },
+  "pack": {
+    "url": "/data/shops-quantized-r6/SHOP_007_3x3.bin.gz",
+    "byteLength": 4350892,
+    "compressedBytes": 488838,
+    "sha256": "a4ab1fe49cec19825969377c5f78c166f12a416ff7452e1f5240f203334f11a0",
+    "expandedSha256": "dd376c47bfc5947d14fe89f74f4a7e52a67c0c7122e4105f8f5e6c172b67bd60"
+  },
+  "boundsZUpOriginal": [
+    [
+      -1.1166799068450928,
+      -1.2912918329238892,
+      0.0
+    ],
+    [
+      1.1166799068450928,
+      1.0121219158172607,
+      1.6218838691711426
+    ]
+  ],
+  "boundsZUpDecoded": [
+    [
+      -1.1166722617267373,
+      -1.2912991729483931,
+      0.0
+    ],
+    [
+      1.1166722617267373,
+      1.012115848261971,
+      1.6218756675923949
+    ]
+  ],
+  "sourceExpandedSha256": "96e60f12b49d94152ea51d1f0b15a1f79fede325eee5495a8ce47805b233d18a",
+  "sourceIndexedManifestSha256": "bdeedda9e982acdb298d64c1e42a21a092881151b5516dfd2605eef4db78015f",
+  "sourceIndexedVertexSha256": "ff170c4400e5d74656d8e022d3abd5bcfece8c31b193dc884f9ad675c16632bf",
+  "sourceStatus": "CANDIDATE_REQUIRES_REVIEW",
+  "sourceArtApproved": false,
+  "runtimeTextures": 0,
+  "preservedVertexOrder": true,
+  "preservedIndexOrder": true,
+  "losslessGeometry": false,
+  "quantizationOnly": true,
+  "normalsUniformScaleInvariant": true,
+  "shaderColorRule": "Convert normalized display sRGB vColor.rgb to linear in vertex shader; do not convert alpha or use CPU expanded color arrays.",
+  "validation": {
+    "modelKey": "SHOP_007_3x3",
+    "vertexCount": 221821,
+    "triangles": 85298,
+    "positionScale": 2.0,
+    "sourceIndexedGeometryBytes": 9009132,
+    "quantizedGeometryBytes": 4350892,
+    "sourceIndexedGzipBytes": 1278011,
+    "quantizedGzipBytes": 488838,
+    "positionMaximumLocalEuclideanErrorU": 5.168525114204521e-05,
+    "positionMaximumLocalComponentErrorU": 3.0516688611981202e-05,
+    "positionTheoreticalComponentBoundU": 3.051850947599719e-05,
+    "maximumWorldPositionEuclideanErrorU": 3.4456834094696804e-05,
+    "maximumNormalAngularErrorDegrees": 0.0014319830514793275,
+    "zeroSourceNormalCount": 0,
+    "zeroDecodedNormalCount": 0,
+    "maximumRGBAbsoluteError": 4.511253504091428e-08,
+    "rgbHalfStepLimit": 0.00196078431372549,
+    "rgbGate": true,
+    "positionGate": true,
+    "indicesUnchanged": true,
+    "sourceColorRange": [
+      [
+        0.14117646217346191,
+        0.10588235408067703,
+        0.14901961386203766
+      ],
+      [
+        1.0,
+        0.9686274528503418,
+        0.9215686321258545
+      ]
+    ],
+    "normalSourceLengthRange": [
+      0.9999999609103934,
+      1.0000000381552658
+    ],
+    "boundsOriginal": [
+      [
+        -1.1166799068450928,
+        -1.2912918329238892,
+        0.0
+      ],
+      [
+        1.1166799068450928,
+        1.0121219158172607,
+        1.6218838691711426
+      ]
+    ],
+    "boundsDecoded": [
+      [
+        -1.1166722617267373,
+        -1.2912991729483931,
+        0.0
+      ],
+      [
+        1.1166722617267373,
+        1.012115848261971,
+        1.6218756675923949
+      ]
+    ],
+    "instances": [
+      {
+        "instanceId": "np26:shop:京味堂1",
+        "runtimeScale": 0.6666666666666666,
+        "maximumWorldPositionEuclideanErrorU": 3.4456834094696804e-05,
+        "maximumWorldComponentErrorUpperBoundU": 2.0344459074654132e-05,
+        "originalRootNative": [
+          24.0,
+          8.0,
+          0.03400000184774399
+        ],
+        "rotateZ": 0
+      }
+    ],
+    "sourceExpandedSha256": "96e60f12b49d94152ea51d1f0b15a1f79fede325eee5495a8ce47805b233d18a"
+  }
+}

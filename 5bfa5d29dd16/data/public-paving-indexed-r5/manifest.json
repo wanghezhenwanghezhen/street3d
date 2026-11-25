@@ -1,0 +1,2588 @@
+{
+  "schema": "qianyu-lossless-indexed-geometry/1",
+  "sourceSha256": "705435c770a7e6dbe4c71499d81434d70b355a710505e76d0c4bbaf1e7eadfb2",
+  "sourceMeshes": 333,
+  "triangles": 245693,
+  "pieces": 31867,
+  "minRelief": 0.001,
+  "maxRelief": 0.009,
+  "chunkSize": 8,
+  "originalSchema": "qianyu-baked-paving-relief/1",
+  "geometryLayout": {
+    "componentType": "float32",
+    "stride": 8,
+    "attributes": {
+      "position": [
+        3,
+        0
+      ],
+      "normal": [
+        3,
+        3
+      ],
+      "uv": [
+        2,
+        6
+      ]
+    },
+    "indices": "per-chunk uint16 or uint32"
+  },
+  "vertices": 600065,
+  "sourceExpandedVertices": 737079,
+  "chunks": [
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        0,
+        3
+      ],
+      "sourceVertices": 8415,
+      "vertices": 6827,
+      "vertexByteOffset": 0,
+      "vertexByteLength": 218464,
+      "indexByteOffset": 218464,
+      "indexByteLength": 16830,
+      "indexType": "uint16",
+      "indexCount": 8415,
+      "sourceExpandedSha256": "27f05beff301a7e09127ee2fce7d75d71a01e95a5be2e42ffbae4ea514c49fe3",
+      "reconstructedSha256": "27f05beff301a7e09127ee2fce7d75d71a01e95a5be2e42ffbae4ea514c49fe3",
+      "vertexSha256": "20f5cc9b8fbef6b4981a69b9012c336c8ac33cc1c428c4f66c1630dbe243cd34",
+      "indexSha256": "598b30cf3d2a089b358be7669843340b60cb0541d23c82b3cfc45f387b13f7ee",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "e0790b4299c2770bf8f60fac965d6630b9b343585006e2cae55a1e7a3e3a6fad",
+      "boundsZUp": [
+        [
+          -2.9756853184314835e-19,
+          26.0,
+          0.013000000268220901
+        ],
+        [
+          5.822122097015381,
+          32.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0000.bin.gz",
+        "byteLength": 235294,
+        "compressedBytes": 60667,
+        "sha256": "5a51afdcceee5e088690a25c5948387f229fab9b901cf4aaff51848198f548fc",
+        "expandedSha256": "c7f54f2744d433c94b631cbb34a004e0488252835e5d66c0c948fdf3af53d15e",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 218464,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-67bc173b25535fd0",
+      "cell": [
+        0,
+        3
+      ],
+      "sourceVertices": 51207,
+      "vertices": 41314,
+      "vertexByteOffset": 235296,
+      "vertexByteLength": 1322048,
+      "indexByteOffset": 1557344,
+      "indexByteLength": 102414,
+      "indexType": "uint16",
+      "indexCount": 51207,
+      "sourceExpandedSha256": "49d962c72ea13da7e6e214b9666b902a4d4641d44d59f0970cd2fb97d346d225",
+      "reconstructedSha256": "49d962c72ea13da7e6e214b9666b902a4d4641d44d59f0970cd2fb97d346d225",
+      "vertexSha256": "338a8608738400977879a53fbf25f6b2f90e4fd0697b8b38f4e8c9fc180d4fd3",
+      "indexSha256": "165300f0c02d19594f6a1456303408fcb64656a9e42e3686839cccb2bd91b775",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "5e23212117550e41124d932bcb03d8fdb4e3a0391393d11106974188de3573e9",
+      "boundsZUp": [
+        [
+          3.8607640266418457,
+          23.992841720581055,
+          0.0010000000474974513
+        ],
+        [
+          7.0,
+          28.0,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0001.bin.gz",
+        "byteLength": 1424462,
+        "compressedBytes": 307679,
+        "sha256": "88df8d107f89330d1be877106b60b767246d66f2ee7ae6e9bf07da590efc25a0",
+        "expandedSha256": "e05c870858b2217a114458cacb47507f868fba8d642646f9cdfaaa6e13e0e4e6",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 1322048,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-83accf5a13d4349b",
+      "cell": [
+        0,
+        3
+      ],
+      "sourceVertices": 1182,
+      "vertices": 1021,
+      "vertexByteOffset": 1659760,
+      "vertexByteLength": 32672,
+      "indexByteOffset": 1692432,
+      "indexByteLength": 2364,
+      "indexType": "uint16",
+      "indexCount": 1182,
+      "sourceExpandedSha256": "53939ff1668256564929b47bae078709a1685efc0f94fba7566fd493717a4f3b",
+      "reconstructedSha256": "53939ff1668256564929b47bae078709a1685efc0f94fba7566fd493717a4f3b",
+      "vertexSha256": "d43db3e571ca03326f8e87ab5784faf652f40e3223d58787d9d67c584e009387",
+      "indexSha256": "f6d198728fef38b5791e365ac45af5d65962a9770286b9467dda463ea31f0573",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "daaa4c1544f9fc415ef873690a57ce3700eb237ffcc950db0281ff8822e40de2",
+      "boundsZUp": [
+        [
+          5.800000190734863,
+          26.213788986206055,
+          0.0010000000474974513
+        ],
+        [
+          6.0,
+          28.0,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0002.bin.gz",
+        "byteLength": 35036,
+        "compressedBytes": 10749,
+        "sha256": "d8af92cff1f02c5d5453c83c5257bbf0d7760c372532354d827ec960683a6ff9",
+        "expandedSha256": "41202c7b11e4a25ee2176b28723ccd9d242bbd8282688f880e9b69bfff4f3983",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 32672,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        1,
+        0
+      ],
+      "sourceVertices": 2589,
+      "vertices": 1998,
+      "vertexByteOffset": 1694796,
+      "vertexByteLength": 63936,
+      "indexByteOffset": 1758732,
+      "indexByteLength": 5178,
+      "indexType": "uint16",
+      "indexCount": 2589,
+      "sourceExpandedSha256": "2e98ca4f0eda255f1c5ffd1330f1a9c24fc8a34bea42295232becafb98b22d18",
+      "reconstructedSha256": "2e98ca4f0eda255f1c5ffd1330f1a9c24fc8a34bea42295232becafb98b22d18",
+      "vertexSha256": "7f91263c40b005514555a9d6723ea469cf2ff0f1cefeac582970df71af1531bf",
+      "indexSha256": "46fd718b91a0e51e7aa16248f70b490f862914c031224704ddc4e73015e7a7ac",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "092a975506b489a073027578eb252892ccda6016e67db0553b575c0cd3b444ab",
+      "boundsZUp": [
+        [
+          11.0,
+          3.0,
+          0.013000000268220901
+        ],
+        [
+          13.0,
+          5.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0003.bin.gz",
+        "byteLength": 69114,
+        "compressedBytes": 18300,
+        "sha256": "8544e6be2f52e03faec138291c6c00ab918b072d63554d05e5b76797b2f595f1",
+        "expandedSha256": "450081981c9b1177709f7a8d7ef2d5142dcc094c8a21df6f381048705fe58319",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 63936,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-dbf70a598f42fecb",
+      "cell": [
+        1,
+        0
+      ],
+      "sourceVertices": 25143,
+      "vertices": 21159,
+      "vertexByteOffset": 1763912,
+      "vertexByteLength": 677088,
+      "indexByteOffset": 2441000,
+      "indexByteLength": 50286,
+      "indexType": "uint16",
+      "indexCount": 25143,
+      "sourceExpandedSha256": "78e605a7a84020467a9e14605110e0705cfee5a4c2f9db8220843875798a080c",
+      "reconstructedSha256": "78e605a7a84020467a9e14605110e0705cfee5a4c2f9db8220843875798a080c",
+      "vertexSha256": "689b7ee877be51c39aa148492df3835d4210f0f830798a90f7b803e4ccdb141e",
+      "indexSha256": "9d65e8e485e4a5c15a150560b5dcc0880405e6491ebfdce3d0bc7bb4c81a4ed8",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "aa07906626ff26cf22e8d93cb9187dfbf31814eeccc0b65e26853ef4cb0a7a42",
+      "boundsZUp": [
+        [
+          10.0,
+          2.0,
+          0.0010000000474974513
+        ],
+        [
+          13.0,
+          8.0,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0004.bin.gz",
+        "byteLength": 727374,
+        "compressedBytes": 163473,
+        "sha256": "a5a5c75fc24343e894f08e09b5c57927266b21d86b36f41721530da4368df33a",
+        "expandedSha256": "911c1a08679a7748a75ae92c9a1b0528b9448bcd3c01af4880679287228c29db",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 677088,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-83accf5a13d4349b",
+      "cell": [
+        1,
+        0
+      ],
+      "sourceVertices": 504,
+      "vertices": 440,
+      "vertexByteOffset": 2491288,
+      "vertexByteLength": 14080,
+      "indexByteOffset": 2505368,
+      "indexByteLength": 1008,
+      "indexType": "uint16",
+      "indexCount": 504,
+      "sourceExpandedSha256": "7edb084921b3fa0ef833c4ec0915800064e97fb3a60681f216b55a1a139a2848",
+      "reconstructedSha256": "7edb084921b3fa0ef833c4ec0915800064e97fb3a60681f216b55a1a139a2848",
+      "vertexSha256": "24341201cdf3f4e1def373c36464f20e3f3d09741ee296760325539b4392b2d0",
+      "indexSha256": "c3306f1fb38851ae99836452ebbf5159ece3343a493f7a0de0c56f14740fe6ec",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "a8b9809974f5c4404a2a8607f5c0fcea593ff0636439a996c0f741b577f9d187",
+      "boundsZUp": [
+        [
+          11.0,
+          3.0,
+          0.0010000000474974513
+        ],
+        [
+          11.436018943786621,
+          3.3826777935028076,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0005.bin.gz",
+        "byteLength": 15088,
+        "compressedBytes": 4703,
+        "sha256": "be5f64429dd927d370fd794f0d8de0df678230af77760f1513f4ba4f02abde83",
+        "expandedSha256": "76a5f1db1d8e2950f89792139873bba7408d700c6e42f8e7447cd7a4987c62e5",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 14080,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        -1,
+        0
+      ],
+      "sourceVertices": 11811,
+      "vertices": 9089,
+      "vertexByteOffset": 2506376,
+      "vertexByteLength": 290848,
+      "indexByteOffset": 2797224,
+      "indexByteLength": 23622,
+      "indexType": "uint16",
+      "indexCount": 11811,
+      "sourceExpandedSha256": "bedf95de22a7062ea0ebad3a239dcc5a89b76b748512a6ece77cf5790a926f95",
+      "reconstructedSha256": "bedf95de22a7062ea0ebad3a239dcc5a89b76b748512a6ece77cf5790a926f95",
+      "vertexSha256": "ee4202b0a9fee98ce26adbc9021342581ba43e43de3505989f580b2b2c8951a9",
+      "indexSha256": "d1bbb9810c9cdd4c8c0f7d2b8dd5e3b773aa9575676fd4ac0e93461f5e5593f7",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "ac5fd0cf066046b44c5015f9922544c4a0b6f726e8e93f9d65092be9fe3bd5f0",
+      "boundsZUp": [
+        [
+          -7.0,
+          2.0,
+          0.013000000268220901
+        ],
+        [
+          -1.0,
+          8.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0006.bin.gz",
+        "byteLength": 314470,
+        "compressedBytes": 84533,
+        "sha256": "b2351189361959c0ea9ea6ca884fba668656df5fd18c080ad2118dfb1d6d1e20",
+        "expandedSha256": "08d28a36f4e826044801d972fed788185f57cc1938736af30e8fb3793e509729",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 290848,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-67bc173b25535fd0",
+      "cell": [
+        -1,
+        0
+      ],
+      "sourceVertices": 41040,
+      "vertices": 33962,
+      "vertexByteOffset": 2820848,
+      "vertexByteLength": 1086784,
+      "indexByteOffset": 3907632,
+      "indexByteLength": 82080,
+      "indexType": "uint16",
+      "indexCount": 41040,
+      "sourceExpandedSha256": "9a92541373c84957459ec5c1068e0ed8f49c731fac53b98500aa477708226d1e",
+      "reconstructedSha256": "9a92541373c84957459ec5c1068e0ed8f49c731fac53b98500aa477708226d1e",
+      "vertexSha256": "0d569e5fc5f48f4edc8030fa9675ce530815aab53f37e20638a55a2a300dcca5",
+      "indexSha256": "9ab107e1603b4fdffe93f365ec5d6059978668d1af6aa1725ec14ecdbeebebde",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "124424784ed2b97b5e1dd145d4ce2de72513fb7eb0e964fa97ea69bc0991989f",
+      "boundsZUp": [
+        [
+          -1.0,
+          1.0,
+          0.0010000000474974513
+        ],
+        [
+          1.1102230246251565e-16,
+          8.0,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0007.bin.gz",
+        "byteLength": 1168864,
+        "compressedBytes": 236280,
+        "sha256": "3d63e33ee42a77de5e1550ff71f6980e18e059b0edd538d6d5bcb36634e3d818",
+        "expandedSha256": "d06d15fc6bea1bd4f70b22772c2d7e43929f315734953fd0f762db4873a30a11",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 1086784,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-ff4f7a74e90782c4",
+      "cell": [
+        0,
+        0
+      ],
+      "sourceVertices": 18885,
+      "vertices": 16729,
+      "vertexByteOffset": 3989712,
+      "vertexByteLength": 535328,
+      "indexByteOffset": 4525040,
+      "indexByteLength": 37770,
+      "indexType": "uint16",
+      "indexCount": 18885,
+      "sourceExpandedSha256": "d02bff6f0db3fca2d71dfa78eb92e3e2995767c725898b0909de513aec299500",
+      "reconstructedSha256": "d02bff6f0db3fca2d71dfa78eb92e3e2995767c725898b0909de513aec299500",
+      "vertexSha256": "39ea5261e1b48433b35a4b82f887d698d736073234e37745093fc1ed2d6f9564",
+      "indexSha256": "33944082877b10daa7815cd747a436166dc281d1f46cb91992d98534765c308e",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "7d99e108c121b39f74997b10ff79a8d97504ad759c413b41ce8b2f5b0ce8a2d2",
+      "boundsZUp": [
+        [
+          -3.547985765882054e-17,
+          -3.3306692062243676e-17,
+          0.0010000000474974513
+        ],
+        [
+          3.0,
+          1.0,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0008.bin.gz",
+        "byteLength": 573098,
+        "compressedBytes": 140598,
+        "sha256": "209d9a2608e445662bf47d2ba7fa31eac750bd4b891f8ba7981334afee4ea8c3",
+        "expandedSha256": "cc6ad41b2e35bce23293f4658ce7ae3177c1dc8ed4baf2858edc1115c99ce63b",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 535328,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        2,
+        0
+      ],
+      "sourceVertices": 3987,
+      "vertices": 2926,
+      "vertexByteOffset": 4562812,
+      "vertexByteLength": 93632,
+      "indexByteOffset": 4656444,
+      "indexByteLength": 7974,
+      "indexType": "uint16",
+      "indexCount": 3987,
+      "sourceExpandedSha256": "9b78fd610bcb327066754acb2e4fa244cd977d2017b9552144264ab01d475e77",
+      "reconstructedSha256": "9b78fd610bcb327066754acb2e4fa244cd977d2017b9552144264ab01d475e77",
+      "vertexSha256": "c6fdb9357c4c45b5f0725aad44dbbad3c9a1b35a1475c207c908d44b53f59df1",
+      "indexSha256": "6ba93e131d68959271c6caca5267282c88e800d1777da14ca3672de019e691a4",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "814c28a6c1bfcfa7404c2ead205fd4ef985a80b4631d461c9891e907f6f4be53",
+      "boundsZUp": [
+        [
+          18.955821990966797,
+          3.0,
+          0.013000000268220901
+        ],
+        [
+          21.0,
+          5.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0009.bin.gz",
+        "byteLength": 101606,
+        "compressedBytes": 27652,
+        "sha256": "7240a9eae9e9b7bb48ffb58c90413e95fc2f5607cc2dadd2357dbbc2da488610",
+        "expandedSha256": "7c886836a72bdddcc8222ebdf86936349ba04c04b3bac2cf06afd3036ba03df4",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 93632,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-67bc173b25535fd0",
+      "cell": [
+        2,
+        0
+      ],
+      "sourceVertices": 52326,
+      "vertices": 42515,
+      "vertexByteOffset": 4664420,
+      "vertexByteLength": 1360480,
+      "indexByteOffset": 6024900,
+      "indexByteLength": 104652,
+      "indexType": "uint16",
+      "indexCount": 52326,
+      "sourceExpandedSha256": "089ee29811db334a7a0c61297088561b8d091b5962c40024c892407e9ec70f89",
+      "reconstructedSha256": "089ee29811db334a7a0c61297088561b8d091b5962c40024c892407e9ec70f89",
+      "vertexSha256": "8b455cd26826e3fd73408b1cf38637fb0c03f2514422d3d94210973353eb2696",
+      "indexSha256": "0f84b8bb73ae2a2e1bc2697e8695d048ffd354450a319a2aee5cf504615c3392",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "9310a54fcb540b8a276cd1056d81ba8509a2a0b9db19bcf378c03bc1e37ce6f7",
+      "boundsZUp": [
+        [
+          19.0,
+          2.0,
+          0.0010000000474974513
+        ],
+        [
+          22.0,
+          8.0,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0010.bin.gz",
+        "byteLength": 1465132,
+        "compressedBytes": 304684,
+        "sha256": "c379a656c3f927167bf84c8bf278bb327f10a266ab92ffe53496193ddba3daf3",
+        "expandedSha256": "5206cd96e38894a35db690e108b071c9c281855771e4f01b452df7d3b5dd9c3c",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 1360480,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-83accf5a13d4349b",
+      "cell": [
+        2,
+        0
+      ],
+      "sourceVertices": 2091,
+      "vertices": 1836,
+      "vertexByteOffset": 6129552,
+      "vertexByteLength": 58752,
+      "indexByteOffset": 6188304,
+      "indexByteLength": 4182,
+      "indexType": "uint16",
+      "indexCount": 2091,
+      "sourceExpandedSha256": "a6605422cf95fed64868931d07d2a449a2917e4d43f3cd4f8e30acb372ef4c2b",
+      "reconstructedSha256": "a6605422cf95fed64868931d07d2a449a2917e4d43f3cd4f8e30acb372ef4c2b",
+      "vertexSha256": "fd3c275d7a4dd046f6f5bf975a722ef72593de529fb788e842fe09a3f1db83f2",
+      "indexSha256": "86e1bd301d34fce62f5b98d5c420337f1fef2b9e30c044560647bfe127943b74",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "7b2c47b3691ad1e106a808acea3b7d24156205a705a7835add31efeff073ebd0",
+      "boundsZUp": [
+        [
+          19.0,
+          3.0,
+          0.0010000000474974513
+        ],
+        [
+          21.0,
+          4.115099906921387,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0011.bin.gz",
+        "byteLength": 62934,
+        "compressedBytes": 18689,
+        "sha256": "d4364eaced11cc46188288290f342e01b3031435a8d558adfe92616e698fb58d",
+        "expandedSha256": "21bd8b83875aab5f2b9ba7fd003816e96a44fb8b7c63c19ef1e106abc7ab1e25",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 58752,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        0,
+        4
+      ],
+      "sourceVertices": 18087,
+      "vertices": 13860,
+      "vertexByteOffset": 6192488,
+      "vertexByteLength": 443520,
+      "indexByteOffset": 6636008,
+      "indexByteLength": 36174,
+      "indexType": "uint16",
+      "indexCount": 18087,
+      "sourceExpandedSha256": "1a8bec2b03696b9c0cf7bc38205f16253729948355ce3e97fa205313d715c899",
+      "reconstructedSha256": "1a8bec2b03696b9c0cf7bc38205f16253729948355ce3e97fa205313d715c899",
+      "vertexSha256": "ed8b374bdb870758b4fb90e8183853ec24bc9b5c204d430f63a5d7517aee94e4",
+      "indexSha256": "166b99374ce0473ef620b5ba6b7768cf38b61ef103fd3aee77d984230ce5510b",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "0dc3fa250639538fe32441a4ed62309b2663b6e4dae015c924e1ac9d15638e9b",
+      "boundsZUp": [
+        [
+          -2.775557602921922e-18,
+          32.0,
+          0.013000000268220901
+        ],
+        [
+          8.029705047607422,
+          40.00889587402344,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0012.bin.gz",
+        "byteLength": 479694,
+        "compressedBytes": 129660,
+        "sha256": "cfaa595c4d3d0357d610539c1ec41acbbb9d27324fb6b083365279df597074a7",
+        "expandedSha256": "c2bd7ace38ad2fb10bf967b6f4c6975f5bad845b3e42728613bddc6f00536ce2",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 443520,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        0,
+        5
+      ],
+      "sourceVertices": 3237,
+      "vertices": 2550,
+      "vertexByteOffset": 6672184,
+      "vertexByteLength": 81600,
+      "indexByteOffset": 6753784,
+      "indexByteLength": 6474,
+      "indexType": "uint16",
+      "indexCount": 3237,
+      "sourceExpandedSha256": "418e190baaf388d63efa23a123db8e58f2dda7ba313febfcf838d48c6cbe26d6",
+      "reconstructedSha256": "418e190baaf388d63efa23a123db8e58f2dda7ba313febfcf838d48c6cbe26d6",
+      "vertexSha256": "179630fec232deaf1438ded9aa681a8141512e2c69afdbd39f5f81635adf12ac",
+      "indexSha256": "1afc1fcd4c004823e5a29944ced0647ec77a2050f105a761173f06c3ecc83c9d",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "8f09fbd1017500b0137f2ace0eacb476eb2f6c135652200be0bd1512a47672db",
+      "boundsZUp": [
+        [
+          6.0,
+          39.993595123291016,
+          0.013000000268220901
+        ],
+        [
+          8.026951789855957,
+          42.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0013.bin.gz",
+        "byteLength": 88074,
+        "compressedBytes": 22836,
+        "sha256": "f3cb625c4721239868c78c79b8191c19fe09d5f8b9c30c50ddf8970af12d65da",
+        "expandedSha256": "f9fe1c452ed5b1c43be6088c8c98ddacd9e9f805d09316e1e792d3732a4dbae6",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 81600,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        1,
+        4
+      ],
+      "sourceVertices": 33,
+      "vertices": 14,
+      "vertexByteOffset": 6760260,
+      "vertexByteLength": 448,
+      "indexByteOffset": 6760708,
+      "indexByteLength": 66,
+      "indexType": "uint16",
+      "indexCount": 33,
+      "sourceExpandedSha256": "e278d36377ce32ee841e173330e0f2e4c561ea9e1c6579d405670bf46fbe380b",
+      "reconstructedSha256": "e278d36377ce32ee841e173330e0f2e4c561ea9e1c6579d405670bf46fbe380b",
+      "vertexSha256": "f9fd66e9f2556eb0392455ec643d6f52b4db4764aacb349f630b81316ba9da3e",
+      "indexSha256": "3527703a97c3a6f552de0f924979339003ac37203fc4bc2d628275a4822e1f04",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "0d389d4b2de1aaa9ed4ec7f70dff2f36ac27bb10d8a6246f7bbb066c402d7eec",
+      "boundsZUp": [
+        [
+          7.982043743133545,
+          39.42245101928711,
+          0.013000000268220901
+        ],
+        [
+          8.086444854736328,
+          39.526851654052734,
+          0.020250000059604645
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0014.bin.gz",
+        "byteLength": 514,
+        "compressedBytes": 237,
+        "sha256": "05dbb74ad2bc600a1703bcd516ba7c291ebb8f17b1ed3bee048eb19cb5cc0f81",
+        "expandedSha256": "650cd3d876760f303842f7ea570e1bd31b04bbbaa8654abe0370196d207a236c",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 448,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-83accf5a13d4349b",
+      "cell": [
+        0,
+        4
+      ],
+      "sourceVertices": 3723,
+      "vertices": 3263,
+      "vertexByteOffset": 6760776,
+      "vertexByteLength": 104416,
+      "indexByteOffset": 6865192,
+      "indexByteLength": 7446,
+      "indexType": "uint16",
+      "indexCount": 3723,
+      "sourceExpandedSha256": "93021efcad3822f336f3e843dc291b228dc3253e5c54c07036609306d1bca496",
+      "reconstructedSha256": "93021efcad3822f336f3e843dc291b228dc3253e5c54c07036609306d1bca496",
+      "vertexSha256": "1f481c7a9a72710140f3dfc6693533e860e92a52858327981964a321d99a6f45",
+      "indexSha256": "2eb6d737bf2041a85309787718bc0404a2e921919f4875de46084b6a691e1b4a",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "0afc6c2591202dd994f82b52a97b8c3b9724a7d857c0db76f755b6c09deddc94",
+      "boundsZUp": [
+        [
+          4.08489990234375,
+          38.0,
+          0.0010000000474974513
+        ],
+        [
+          8.160797119140625,
+          39.50889587402344,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0015.bin.gz",
+        "byteLength": 111862,
+        "compressedBytes": 33878,
+        "sha256": "401621422dcc0dc8b93e89c9e74830575e59bb3c674cac7e3f9807f4da2e835a",
+        "expandedSha256": "8f6b1ea929aa15e678b10a33d64749c831a1b50d6065bfa7f8ed0a2f01720b3c",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 104416,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-83accf5a13d4349b",
+      "cell": [
+        1,
+        4
+      ],
+      "sourceVertices": 12,
+      "vertices": 8,
+      "vertexByteOffset": 6872640,
+      "vertexByteLength": 256,
+      "indexByteOffset": 6872896,
+      "indexByteLength": 24,
+      "indexType": "uint16",
+      "indexCount": 12,
+      "sourceExpandedSha256": "b5fb2ce8aea1b6ca556655d9f9338fbb64e78f8ee9b0206e8f106a2b5b9843ef",
+      "reconstructedSha256": "b5fb2ce8aea1b6ca556655d9f9338fbb64e78f8ee9b0206e8f106a2b5b9843ef",
+      "vertexSha256": "70359827512866ae7664c3c1d8aea686e81adfaa82b246a45f738c29de601c05",
+      "indexSha256": "a2a269d77a26fde49176869687d9a09e3198760ee8f9301a9c28b7da609370a6",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "720b4c94d9ae1d329fa3f35de42523ffd7829e27a7e2936d2148b042eb136d93",
+      "boundsZUp": [
+        [
+          7.882932186126709,
+          39.1088981628418,
+          0.0010000000474974513
+        ],
+        [
+          8.163323402404785,
+          39.1088981628418,
+          0.008750000037252903
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0016.bin.gz",
+        "byteLength": 280,
+        "compressedBytes": 112,
+        "sha256": "71a63f15879915a776c6f58f1d8326c6f72289527fb789cfe2e4b8594da3231d",
+        "expandedSha256": "e831109ed5c6c9a1f4e4acb029e44f6218cb9f0dbec48c115d2ecc16a85afdac",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 256,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-ff4f7a74e90782c4",
+      "cell": [
+        4,
+        2
+      ],
+      "sourceVertices": 21546,
+      "vertices": 17225,
+      "vertexByteOffset": 6872920,
+      "vertexByteLength": 551200,
+      "indexByteOffset": 7424120,
+      "indexByteLength": 43092,
+      "indexType": "uint16",
+      "indexCount": 21546,
+      "sourceExpandedSha256": "18592083723e0514c5d6f30c721ab3425ab7636d8a98f4d7f2f6c33094b2dd71",
+      "reconstructedSha256": "18592083723e0514c5d6f30c721ab3425ab7636d8a98f4d7f2f6c33094b2dd71",
+      "vertexSha256": "55763943d6181fb8e545f5e5aca6971f3c867e2de37e85a625451850833dc7ac",
+      "indexSha256": "1d9a873ad3a35674f511036383a9ec78cadf5801f1971e4ec69bf2997e8fa2b2",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "db09eb312d7397337e33441fd12224e6c49afc695b46532b0bcf58791043c8d8",
+      "boundsZUp": [
+        [
+          35.0,
+          20.764999389648438,
+          0.0010000000474974513
+        ],
+        [
+          40.000370025634766,
+          21.21500015258789,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0017.bin.gz",
+        "byteLength": 594292,
+        "compressedBytes": 158087,
+        "sha256": "b50098eeca7a13cb63e24eb738b3e90979b4e1cf4ad6d50ac6b43625c29b1dc2",
+        "expandedSha256": "e5e5bdc6516d792cce69ab6c4d8969eb86c120f217acc3f1891b57fec11bff07",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 551200,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-ff4f7a74e90782c4",
+      "cell": [
+        5,
+        2
+      ],
+      "sourceVertices": 1461,
+      "vertices": 1165,
+      "vertexByteOffset": 7467212,
+      "vertexByteLength": 37280,
+      "indexByteOffset": 7504492,
+      "indexByteLength": 2922,
+      "indexType": "uint16",
+      "indexCount": 1461,
+      "sourceExpandedSha256": "6d238a0abd61104ab44e3e85020e80b00da69ec1462e6cd9745ce5241dc2ae4e",
+      "reconstructedSha256": "6d238a0abd61104ab44e3e85020e80b00da69ec1462e6cd9745ce5241dc2ae4e",
+      "vertexSha256": "02103ad2d29007616a6ed2a554df3ed708552b8312fda98e2797077d40795ddd",
+      "indexSha256": "d7623ee743fe296f91bca02f5d23c1621724e0343c4b86be1558771edc8fd6fa",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "801433942d306829ea21efa7efa6df9b0fab4262ef5c5b3b7b2e21637b6971e2",
+      "boundsZUp": [
+        [
+          39.99747085571289,
+          20.764999389648438,
+          0.0010000000474974513
+        ],
+        [
+          40.32500076293945,
+          21.21500015258789,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0018.bin.gz",
+        "byteLength": 40202,
+        "compressedBytes": 10057,
+        "sha256": "0f99968cf981602bfe81ecdcf3b08b0ae44c76a5dc7b154ae5ca3bbdfb6a87f4",
+        "expandedSha256": "7db413d2cdd039a75e967b27e33b29d558d02c57044050304e6cb055d3eae80f",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 37280,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        -3,
+        2
+      ],
+      "sourceVertices": 1707,
+      "vertices": 1349,
+      "vertexByteOffset": 7507416,
+      "vertexByteLength": 43168,
+      "indexByteOffset": 7550584,
+      "indexByteLength": 3414,
+      "indexType": "uint16",
+      "indexCount": 1707,
+      "sourceExpandedSha256": "815fc2b51f7ba620494cc24520bc28fbde57f9ae2cc3fc3ced42b4ab08d60cba",
+      "reconstructedSha256": "815fc2b51f7ba620494cc24520bc28fbde57f9ae2cc3fc3ced42b4ab08d60cba",
+      "vertexSha256": "48307b15470466a83dc3b113225c9e867e9dd618fa642c23591cc1f9346369cd",
+      "indexSha256": "fd484c346042cc55bae6c66a28e7a0a5b3022557b3a66bfd55e34661b2c50ba7",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "3b7ed99c3f72858ca50e9a635068bde73db0498acb63b5f5eb7a3985d6bb393d",
+      "boundsZUp": [
+        [
+          -17.0,
+          17.0,
+          0.013000000268220901
+        ],
+        [
+          -16.0,
+          18.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0019.bin.gz",
+        "byteLength": 46582,
+        "compressedBytes": 12578,
+        "sha256": "8c83195e03eef59bcbc7b23aa1ae5b0120d379ddeffaa11829606b960b5578c6",
+        "expandedSha256": "68b12813c9ef65d10ee37668169fbb5925dcb071c5ced1f251b5f5dfcf769f67",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 43168,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        -2,
+        2
+      ],
+      "sourceVertices": 8544,
+      "vertices": 6788,
+      "vertexByteOffset": 7554000,
+      "vertexByteLength": 217216,
+      "indexByteOffset": 7771216,
+      "indexByteLength": 17088,
+      "indexType": "uint16",
+      "indexCount": 8544,
+      "sourceExpandedSha256": "e5cb8f1b5f07fe3ab36106d91dc946e1678496ddde3f322f494ed3d4f1e1ef58",
+      "reconstructedSha256": "e5cb8f1b5f07fe3ab36106d91dc946e1678496ddde3f322f494ed3d4f1e1ef58",
+      "vertexSha256": "f8f6ded66f58426bbb6d9301e02cd7d5b87b1c4113a1e10420f5440b9abeb056",
+      "indexSha256": "dbd865a45d9009e72c4603324199b8aeb3935269001385367fc7657fd6a305e5",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "e018b3b66f6ddfc4ea75676598005117a1c18a4941efdd24f92816176de230a1",
+      "boundsZUp": [
+        [
+          -16.0,
+          16.0,
+          0.013000000268220901
+        ],
+        [
+          -10.0,
+          24.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0020.bin.gz",
+        "byteLength": 234304,
+        "compressedBytes": 58987,
+        "sha256": "38e593fedc3affb2111b96714406d9ef50b1e0acc46ae8598d17d4e71081a45e",
+        "expandedSha256": "ad3b9215de434e74069bbaa4797310940981e00083f91c61a6aec8fbecba6d94",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 217216,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        -2,
+        1
+      ],
+      "sourceVertices": 8511,
+      "vertices": 6916,
+      "vertexByteOffset": 7788304,
+      "vertexByteLength": 221312,
+      "indexByteOffset": 8009616,
+      "indexByteLength": 17022,
+      "indexType": "uint16",
+      "indexCount": 8511,
+      "sourceExpandedSha256": "26efc306c056c0eaf8552df8bd4495c1918fc54d9a3ef5d565c01921d9fe6544",
+      "reconstructedSha256": "26efc306c056c0eaf8552df8bd4495c1918fc54d9a3ef5d565c01921d9fe6544",
+      "vertexSha256": "0f9fdac8d095e06360ec6eb17de8369fba700ec179e8de7552d2813ef25898b0",
+      "indexSha256": "343757b1a2303388ded71484756f3ab55b3b6d603e9e255334727f6a770e5fcb",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "3dd9f363ef387607307134a07a8e912e9b989d4f0f5796f554a5ea1f3e9c4b24",
+      "boundsZUp": [
+        [
+          -15.0,
+          9.0,
+          0.013000000268220901
+        ],
+        [
+          -8.0,
+          16.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0021.bin.gz",
+        "byteLength": 238334,
+        "compressedBytes": 61022,
+        "sha256": "ebb843e146f25de9588e7b808d78269f1f4f1126cf0944cd32ed96f922adc66a",
+        "expandedSha256": "5b59ba58850f13827435b06fe60d89b78c98d9a879ffd907b9d04eb37dc8faee",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 221312,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        -2,
+        3
+      ],
+      "sourceVertices": 2265,
+      "vertices": 1792,
+      "vertexByteOffset": 8026640,
+      "vertexByteLength": 57344,
+      "indexByteOffset": 8083984,
+      "indexByteLength": 4530,
+      "indexType": "uint16",
+      "indexCount": 2265,
+      "sourceExpandedSha256": "a13e1addb61ba4ace2f2255d9d9e1331ec2f7976ae15d91d5de9a0dddc6604d2",
+      "reconstructedSha256": "a13e1addb61ba4ace2f2255d9d9e1331ec2f7976ae15d91d5de9a0dddc6604d2",
+      "vertexSha256": "eefb7739b705a4c881b2dae5720fdbecb928c6d56ca8f39e3b50883701ee832a",
+      "indexSha256": "bc8f3c3a9e7fd8f398b28a41feeaa8debac85563d27ce70a93eb00e77f8f897e",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "62227cde80b6a93eba8c46cf6c44346a5afe858d07b71d711443b7faea66e532",
+      "boundsZUp": [
+        [
+          -10.0,
+          24.0,
+          0.013000000268220901
+        ],
+        [
+          -8.0,
+          26.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0022.bin.gz",
+        "byteLength": 61874,
+        "compressedBytes": 16377,
+        "sha256": "046487045fc427168a717b1b6b6ca2078049064f93ecc559d4883c089b43ef45",
+        "expandedSha256": "8bfca952ec7b9b22125af2bb277bc83242ce973668ee28d537851e1c22de61f3",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 57344,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        1,
+        5
+      ],
+      "sourceVertices": 13647,
+      "vertices": 10813,
+      "vertexByteOffset": 8088516,
+      "vertexByteLength": 346016,
+      "indexByteOffset": 8434532,
+      "indexByteLength": 27294,
+      "indexType": "uint16",
+      "indexCount": 13647,
+      "sourceExpandedSha256": "0ae2bd8392d73083e79036ee3e95b5852e17811119c42e4855971f4afbaf83d8",
+      "reconstructedSha256": "0ae2bd8392d73083e79036ee3e95b5852e17811119c42e4855971f4afbaf83d8",
+      "vertexSha256": "a827d7c809d8ad144598e663de862c3b172f1609915312fa1f4b1c310e202505",
+      "indexSha256": "16e801d7d23f8be8aaa87c7cd28ac405718132709558f03e3e170baa2d151e95",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "d506f2d4612da5d36cb5c57dceca014bfcebec34beffc33f16bd02c2293883e9",
+      "boundsZUp": [
+        [
+          7.980108737945557,
+          40.00889587402344,
+          0.013000000268220901
+        ],
+        [
+          16.0,
+          48.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0023.bin.gz",
+        "byteLength": 373310,
+        "compressedBytes": 96367,
+        "sha256": "398def11ada5c86c6138531d44dba05a1671d83e3389ad372e16a8979a18256d",
+        "expandedSha256": "5fdc9593577c87c55e5416a80dd03141e2b254baa35a1a013dc69f93131502b8",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 346016,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        1,
+        6
+      ],
+      "sourceVertices": 1386,
+      "vertices": 1048,
+      "vertexByteOffset": 8461828,
+      "vertexByteLength": 33536,
+      "indexByteOffset": 8495364,
+      "indexByteLength": 2772,
+      "indexType": "uint16",
+      "indexCount": 1386,
+      "sourceExpandedSha256": "dc4add48c664deb28472a1f69703cbefa7fa16bac520ec259c20afa0ad1a43f9",
+      "reconstructedSha256": "dc4add48c664deb28472a1f69703cbefa7fa16bac520ec259c20afa0ad1a43f9",
+      "vertexSha256": "009e064e4ed8beb9221f1f83173be2bb01debc4d4bd51399fa837cc4ba1fef62",
+      "indexSha256": "4a102617c2187675e9633e3115ee9be470f0488526abcc3594e3c1724a3eadfa",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "a60b7438e55895e9c1a4f09306954664650c546128e5ba799497ea57bc53746d",
+      "boundsZUp": [
+        [
+          14.0,
+          48.0,
+          0.013000000268220901
+        ],
+        [
+          15.0,
+          49.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0024.bin.gz",
+        "byteLength": 36308,
+        "compressedBytes": 9352,
+        "sha256": "086ad7fa6b40619e07db6112c2ffacf40fe9e9c9fce5dff38da973b1adb086f0",
+        "expandedSha256": "c8ef3a6218dace12d59daeecb5c68fd07e27ebb12cff4da3a0a3da233809b283",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 33536,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        2,
+        5
+      ],
+      "sourceVertices": 7581,
+      "vertices": 5943,
+      "vertexByteOffset": 8498136,
+      "vertexByteLength": 190176,
+      "indexByteOffset": 8688312,
+      "indexByteLength": 15162,
+      "indexType": "uint16",
+      "indexCount": 7581,
+      "sourceExpandedSha256": "3f47c7c49704a110ba2726f91be474d625fbeccab0fa2262de46640e7641e9f0",
+      "reconstructedSha256": "3f47c7c49704a110ba2726f91be474d625fbeccab0fa2262de46640e7641e9f0",
+      "vertexSha256": "4fd6c5cad8884ddb6c95f7eeee7cfd6f0689f6398b30d02a5576f1c4deb97a09",
+      "indexSha256": "d83cb10cc766c68397c45b4b5c836f7ccc7bb6ca95dbafc29196a2b157a40373",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "f7ad49c93d186aca7c176f063df58b66b79a50733c1577308ec4bbc7e4b12572",
+      "boundsZUp": [
+        [
+          15.986207962036133,
+          41.0,
+          0.013000000268220901
+        ],
+        [
+          22.0,
+          47.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0025.bin.gz",
+        "byteLength": 205338,
+        "compressedBytes": 52065,
+        "sha256": "5a45263c7a4210421c8fa298b24af240c26f3cac9c61642bb45d0392edae5116",
+        "expandedSha256": "df58e95a975f022f172fd63bd7eec913e98ad96710368efcc5ed4e9101f5b5c1",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 190176,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        -1,
+        3
+      ],
+      "sourceVertices": 5514,
+      "vertices": 4495,
+      "vertexByteOffset": 8703476,
+      "vertexByteLength": 143840,
+      "indexByteOffset": 8847316,
+      "indexByteLength": 11028,
+      "indexType": "uint16",
+      "indexCount": 5514,
+      "sourceExpandedSha256": "d9632868325682e0c5bd3007f0039e7c44729ac9ab57b69175e1cdf28a21c84e",
+      "reconstructedSha256": "d9632868325682e0c5bd3007f0039e7c44729ac9ab57b69175e1cdf28a21c84e",
+      "vertexSha256": "439ec6b3f6dafd405316ad2ba36a4e1b28134062c5478d196ba004d84f6030f7",
+      "indexSha256": "d598407c81f0ef0c5d1a7a5814fab8fa592b81fc0049143ed027917dcb738b56",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "ea1554ad6d07e227439e15c8859faa0989296e6b4dc9e95ad3f23849b9b8cfe7",
+      "boundsZUp": [
+        [
+          -5.0,
+          29.0,
+          0.013000000268220901
+        ],
+        [
+          1.4878426592157418e-19,
+          32.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0026.bin.gz",
+        "byteLength": 154868,
+        "compressedBytes": 40779,
+        "sha256": "32915fe7cdff282f8552ba56a50cd3661a887249472f451d8cb1b671c06c2a6d",
+        "expandedSha256": "d316fce57c26cb0ad8a5f5cf4fc01aaefd11ef0b6266d6f7fbef22a632a2cd89",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 143840,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        -1,
+        4
+      ],
+      "sourceVertices": 2220,
+      "vertices": 1693,
+      "vertexByteOffset": 8858344,
+      "vertexByteLength": 54176,
+      "indexByteOffset": 8912520,
+      "indexByteLength": 4440,
+      "indexType": "uint16",
+      "indexCount": 2220,
+      "sourceExpandedSha256": "4801f3f7de8af32c481f301b98a0f1a5183fe1c26b8d678059ff5d5bc91cf973",
+      "reconstructedSha256": "4801f3f7de8af32c481f301b98a0f1a5183fe1c26b8d678059ff5d5bc91cf973",
+      "vertexSha256": "5f6af4e9923cca639a990e17712fea0fa8d637ae805c6d86684c5aa95454f97f",
+      "indexSha256": "8f864eb9d44415eff4c27569933a1f2fabf95c7e3134f3a0bffb89e7e03e4ff6",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "a18b26a34f8ca6cf1602b4738e3fa6e0fa4c90f3afe3dc62adcdf92e0e7e0922",
+      "boundsZUp": [
+        [
+          -2.0,
+          32.0,
+          0.013000000268220901
+        ],
+        [
+          0.0,
+          34.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0027.bin.gz",
+        "byteLength": 58616,
+        "compressedBytes": 15302,
+        "sha256": "92c7ad6a7f7e097e926384be73d50c3d493b71781f7fe8a1473a0af8ccba2042",
+        "expandedSha256": "6e3a340e026b3859b6ac21b33c317f2ba60e2609904b4d449734dc48ff1d5a29",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 54176,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        1,
+        -1
+      ],
+      "sourceVertices": 5388,
+      "vertices": 4535,
+      "vertexByteOffset": 8916960,
+      "vertexByteLength": 145120,
+      "indexByteOffset": 9062080,
+      "indexByteLength": 10776,
+      "indexType": "uint16",
+      "indexCount": 5388,
+      "sourceExpandedSha256": "4241b79b915b16ea27bb61ba40a0277b46918306e43ba330d6d8b16d455ac2eb",
+      "reconstructedSha256": "4241b79b915b16ea27bb61ba40a0277b46918306e43ba330d6d8b16d455ac2eb",
+      "vertexSha256": "0f0305e6c63f40bdae445cb929aa086f597750bcda0c44dac7f72c5ab4140e78",
+      "indexSha256": "83e46e9e2602043ab60d02d1276d85023af84e9279005b662be4eb20003ab2e9",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "25f00e1752e6e43b7b6903c9d63f8fe95742d911e029c62a9918e63beee7c457",
+      "boundsZUp": [
+        [
+          8.0,
+          -8.0,
+          0.013000000268220901
+        ],
+        [
+          13.0,
+          -7.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0028.bin.gz",
+        "byteLength": 155896,
+        "compressedBytes": 40541,
+        "sha256": "d0795acf5d42ebf12132661cf4add397898a536765b0185ed3d3d0a09689278b",
+        "expandedSha256": "8cd8db06f1f77c9327939515802084321adc0982ab11f2acb3f67664aecc9d0d",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 145120,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        1,
+        -2
+      ],
+      "sourceVertices": 9129,
+      "vertices": 7332,
+      "vertexByteOffset": 9072856,
+      "vertexByteLength": 234624,
+      "indexByteOffset": 9307480,
+      "indexByteLength": 18258,
+      "indexType": "uint16",
+      "indexCount": 9129,
+      "sourceExpandedSha256": "bd282acdf03ffbe9ff016ecc99a6ec8f407ca76455a5d9465cf0651c1109457c",
+      "reconstructedSha256": "bd282acdf03ffbe9ff016ecc99a6ec8f407ca76455a5d9465cf0651c1109457c",
+      "vertexSha256": "21f85919604c63933681fe3ec0bbec3703c9efa06e36ace738b3c7888316a65e",
+      "indexSha256": "7d1fb35babd88e0e6df45a0f49c189e065f0fed1e474e673e8f338b82945b92e",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "63c013396f22efbe1960cdf0a18ccef74a392e8c9e4337d35ee39407476a484d",
+      "boundsZUp": [
+        [
+          9.0,
+          -15.0,
+          0.013000000268220901
+        ],
+        [
+          16.0,
+          -8.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0029.bin.gz",
+        "byteLength": 252882,
+        "compressedBytes": 63304,
+        "sha256": "86d5bb97d8a1d4bb714315ac4449ffb39ae754c6cddfe4cf91502613e896b903",
+        "expandedSha256": "34f062b0b8333137d7ccb4e1f004cdc3ac5d8c677c776d103062140b2938670e",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 234624,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        2,
+        -2
+      ],
+      "sourceVertices": 4602,
+      "vertices": 3667,
+      "vertexByteOffset": 9325740,
+      "vertexByteLength": 117344,
+      "indexByteOffset": 9443084,
+      "indexByteLength": 9204,
+      "indexType": "uint16",
+      "indexCount": 4602,
+      "sourceExpandedSha256": "7e167c46e1bf76755c24fd9a669f0e1d8b18b36cd42e06a44759f149d28cb22d",
+      "reconstructedSha256": "7e167c46e1bf76755c24fd9a669f0e1d8b18b36cd42e06a44759f149d28cb22d",
+      "vertexSha256": "994e6c6941692a75d302fa0f74608ced65930504fa546ccf14009ef9e739ea02",
+      "indexSha256": "bd020cc23b2f9924889bc8c2ba2c8c00f5f8a05ab77cf763fa308b32e1831739",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "a881b1dd0fc9222e3d15b3f65cac1f51f82d22be6d17cf4056af69cffca9115b",
+      "boundsZUp": [
+        [
+          16.0,
+          -16.0,
+          0.013000000268220901
+        ],
+        [
+          23.0,
+          -13.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0030.bin.gz",
+        "byteLength": 126548,
+        "compressedBytes": 32441,
+        "sha256": "523140feed234494e1145629b9d0b7d5e6ce4689d546afea3bd8d2feb9ba3ba7",
+        "expandedSha256": "623831374fbf2320f6f87900fe3dfbb889c1ff218da785a3d478283d1fdc3542",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 117344,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        2,
+        -3
+      ],
+      "sourceVertices": 4608,
+      "vertices": 3769,
+      "vertexByteOffset": 9452288,
+      "vertexByteLength": 120608,
+      "indexByteOffset": 9572896,
+      "indexByteLength": 9216,
+      "indexType": "uint16",
+      "indexCount": 4608,
+      "sourceExpandedSha256": "b979e384eb78a5b56f6fbb0b1cb6e0cf51fc9f44e66bf52eb8a4710fd883e23a",
+      "reconstructedSha256": "b979e384eb78a5b56f6fbb0b1cb6e0cf51fc9f44e66bf52eb8a4710fd883e23a",
+      "vertexSha256": "316b3cb00f98d35b81b2d61bc122b77b181f9dc1290a8179a126ce417498ca47",
+      "indexSha256": "f85881f16f2f5818b8718ca908ca9c2cebd22735512d845952ccc8b7da3806dd",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "92e3e7fee15919e2adb0a22cdf71870c219b95cca80cdd15f98394095fdaeca7",
+      "boundsZUp": [
+        [
+          17.0,
+          -18.0,
+          0.013000000268220901
+        ],
+        [
+          20.0,
+          -16.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0031.bin.gz",
+        "byteLength": 129824,
+        "compressedBytes": 33047,
+        "sha256": "1e32613ebba2ea8edc39962568bec8f8d70b8059de19d0f78ff19af832148e06",
+        "expandedSha256": "5c73372e6c3adf5dcf6f4e9115e8da21556c432697eee7d1a13891edba3a5171",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 120608,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        0,
+        -1
+      ],
+      "sourceVertices": 7476,
+      "vertices": 6069,
+      "vertexByteOffset": 9582112,
+      "vertexByteLength": 194208,
+      "indexByteOffset": 9776320,
+      "indexByteLength": 14952,
+      "indexType": "uint16",
+      "indexCount": 7476,
+      "sourceExpandedSha256": "d4848b627c6977a41e83eb2ea1b929ab7475de5de650a030856b171cec475cf7",
+      "reconstructedSha256": "d4848b627c6977a41e83eb2ea1b929ab7475de5de650a030856b171cec475cf7",
+      "vertexSha256": "21b0f36a0420d03e3c2d3d7c695b132939e187fa4890aca8a64ba5f7c2abaafe",
+      "indexSha256": "9c3d58731a99281b92d8bee94413103b584b22e3a77613c1c6071b7eb3d9ec14",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "5a7b4120f50d3247a07c4bf683ebee5fd08d4ee181da6035b3cbafae8e458b1e",
+      "boundsZUp": [
+        [
+          1.0014909505844116,
+          -7.0,
+          0.013000000268220901
+        ],
+        [
+          8.0,
+          1.0755285220183959e-17,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0032.bin.gz",
+        "byteLength": 209160,
+        "compressedBytes": 54747,
+        "sha256": "a2c3228b5e35d80d717abd2597117965842b35be31b6ce9c8f9724cfbd424482",
+        "expandedSha256": "631e0094c0e265ab3522a35f1051e6d9a3de094736786a8b2d32e9eedb8ec887",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 194208,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        3,
+        4
+      ],
+      "sourceVertices": 10908,
+      "vertices": 8463,
+      "vertexByteOffset": 9791272,
+      "vertexByteLength": 270816,
+      "indexByteOffset": 10062088,
+      "indexByteLength": 21816,
+      "indexType": "uint16",
+      "indexCount": 10908,
+      "sourceExpandedSha256": "b00a8849e56b31d6893193a794c1480df5d45f8c9e70db136d235fb56410a783",
+      "reconstructedSha256": "b00a8849e56b31d6893193a794c1480df5d45f8c9e70db136d235fb56410a783",
+      "vertexSha256": "1e6188a6335613da77da7eae25734ca70c48e0f9d16fa80f3679c87f4341caba",
+      "indexSha256": "ab3efd3b9cc9d93e8471fa9eb986743a3ea5930e3c670f2afa4db21e843b8da1",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "2ad233451de54cf7d8cf8e37cfa9f7a43d9a0d4ff53e586bf68ada96adae50ff",
+      "boundsZUp": [
+        [
+          24.0,
+          32.0,
+          0.013000000268220901
+        ],
+        [
+          31.0,
+          39.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0033.bin.gz",
+        "byteLength": 292632,
+        "compressedBytes": 73141,
+        "sha256": "633aadbcb2805384bd463cfb79d432a478d9b21bd994b40b009cf9f4acb82214",
+        "expandedSha256": "ccfd216cb2262b07f1dce30fb59b647d10edf32a2353c44f2ab7d61079075eaa",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 270816,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        3,
+        3
+      ],
+      "sourceVertices": 5106,
+      "vertices": 4049,
+      "vertexByteOffset": 10083904,
+      "vertexByteLength": 129568,
+      "indexByteOffset": 10213472,
+      "indexByteLength": 10212,
+      "indexType": "uint16",
+      "indexCount": 5106,
+      "sourceExpandedSha256": "a59fc8ffc76286d764194ca66587e5c7076f9f610d631c30e41a28dd4d6eb46b",
+      "reconstructedSha256": "a59fc8ffc76286d764194ca66587e5c7076f9f610d631c30e41a28dd4d6eb46b",
+      "vertexSha256": "6f8ab8c2e5116be11b128d46a5690b3748e43c6cbc313e3404149aae19fb4ae8",
+      "indexSha256": "c9f84d383f34b3c3e8d2bdf128447a2757e1d05ccaec4513ebee03e62ae3542b",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "156d337bd8492f8abf51144039675f9004d9830714e58eb81d561ce9cbdd98bb",
+      "boundsZUp": [
+        [
+          26.0,
+          26.0,
+          0.013000000268220901
+        ],
+        [
+          32.0,
+          32.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0034.bin.gz",
+        "byteLength": 139780,
+        "compressedBytes": 33852,
+        "sha256": "34dda6e0b48bd249d120ea0b1805c01f879c1601daad300752d76cf768ccd612",
+        "expandedSha256": "2a5f0022b9ae0eb8129d61e010cab09d53f53825c7d7046239ccf596cf061de1",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 129568,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        4,
+        3
+      ],
+      "sourceVertices": 8172,
+      "vertices": 6370,
+      "vertexByteOffset": 10223684,
+      "vertexByteLength": 203840,
+      "indexByteOffset": 10427524,
+      "indexByteLength": 16344,
+      "indexType": "uint16",
+      "indexCount": 8172,
+      "sourceExpandedSha256": "102b2511f9c0e1095a48e6f618918fa89f69f9992d1dbb149aa8db16f996f317",
+      "reconstructedSha256": "102b2511f9c0e1095a48e6f618918fa89f69f9992d1dbb149aa8db16f996f317",
+      "vertexSha256": "d9e281e03b07df87c92d82225ce16fcdb98d5a5867059d54e8422952afab5a2b",
+      "indexSha256": "5f6a3e2bd7d84a0bac56c17d8bd1b05644680c0e3f295cff5f72bf3e3d6c39cb",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "160325dd911d4a68f0b35f126dce8c60a5fdea4a2583307e7aa27698d2ede57f",
+      "boundsZUp": [
+        [
+          32.0,
+          24.0,
+          0.013000000268220901
+        ],
+        [
+          39.0,
+          31.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0035.bin.gz",
+        "byteLength": 220184,
+        "compressedBytes": 56218,
+        "sha256": "e528902b602a63fb51b274a2acc18cafc316001b0802ad993eecfaf709500d30",
+        "expandedSha256": "6f1f49e9b977aaa9d8a59d71e7bc888221e2f0e0370607280e8694847d2fbdca",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 203840,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        4,
+        2
+      ],
+      "sourceVertices": 2364,
+      "vertices": 1874,
+      "vertexByteOffset": 10443868,
+      "vertexByteLength": 59968,
+      "indexByteOffset": 10503836,
+      "indexByteLength": 4728,
+      "indexType": "uint16",
+      "indexCount": 2364,
+      "sourceExpandedSha256": "074b3fa8591b12208b94747b9aa3c9c9498a53ab03db5094459907e23acdb981",
+      "reconstructedSha256": "074b3fa8591b12208b94747b9aa3c9c9498a53ab03db5094459907e23acdb981",
+      "vertexSha256": "f478bb4165d31361fc21e35b4781b0a1c3159ab4c9a17009c8e73db2835e93ec",
+      "indexSha256": "6b18ad6cdb973e231cf66ba725446fc180e2c798744907bcab6ef36102bd2694",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "78234e837c2b34658e31a2f76815686c72639900c37112bf8a6a18f78822fbc0",
+      "boundsZUp": [
+        [
+          35.0,
+          20.0,
+          0.013000000268220901
+        ],
+        [
+          40.0,
+          24.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0036.bin.gz",
+        "byteLength": 64696,
+        "compressedBytes": 17535,
+        "sha256": "130be713dae38561806f4d014427840859715f8362e5d7aca2eeedde55b9a0d1",
+        "expandedSha256": "5c8a5cc37af646858406acc71460fbf53fca28d9431d25bc154a0d7ced652d33",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 59968,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        4,
+        0
+      ],
+      "sourceVertices": 7389,
+      "vertices": 5938,
+      "vertexByteOffset": 10508564,
+      "vertexByteLength": 190016,
+      "indexByteOffset": 10698580,
+      "indexByteLength": 14778,
+      "indexType": "uint16",
+      "indexCount": 7389,
+      "sourceExpandedSha256": "afe32f55618e8f0f35c1c773a305c4e21528f85769ddbd7548d38eed02fb3011",
+      "reconstructedSha256": "afe32f55618e8f0f35c1c773a305c4e21528f85769ddbd7548d38eed02fb3011",
+      "vertexSha256": "be721c3093acab52d1dda83796353db4ac022707d82c5e80c8aae57d179611c0",
+      "indexSha256": "79aaba52ed4d283b4707b47f97a619c30479e2fd2c93a67fa5185e36e219fb60",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "e3219c7fda81d7ae0ab6ec4e32a9d327d6005f7783359a658864769d47f53397",
+      "boundsZUp": [
+        [
+          36.70014953613281,
+          1.0,
+          0.013000000268220901
+        ],
+        [
+          40.0,
+          7.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0037.bin.gz",
+        "byteLength": 204794,
+        "compressedBytes": 53425,
+        "sha256": "078fab1688f214067cadb0b909f5ab1e1ace6239cb16f02891e1d31ce87ce47d",
+        "expandedSha256": "98cabefeed28516b1461f8685411ace52891fdeb6bc6da9d01076149265a39b5",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 190016,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        5,
+        0
+      ],
+      "sourceVertices": 3240,
+      "vertices": 2495,
+      "vertexByteOffset": 10713360,
+      "vertexByteLength": 79840,
+      "indexByteOffset": 10793200,
+      "indexByteLength": 6480,
+      "indexType": "uint16",
+      "indexCount": 3240,
+      "sourceExpandedSha256": "6461450aceb3633a8b1eb551cafc7e2225dfb66213d32f96db169ad655fa2e26",
+      "reconstructedSha256": "6461450aceb3633a8b1eb551cafc7e2225dfb66213d32f96db169ad655fa2e26",
+      "vertexSha256": "720eb9a90e1d091584771b266829797f56c03a054002bcfdcb0794e7502ad81d",
+      "indexSha256": "8a704061ad55654a24e3ab87d7173d391c3917af1a37f07c3aaf06c3c558c2b2",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "60d5e723780bab2e83bd7b44df97f1243245230a6394cdf8848eeab41ee4d239",
+      "boundsZUp": [
+        [
+          40.0,
+          4.0,
+          0.013000000268220901
+        ],
+        [
+          43.0,
+          7.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0038.bin.gz",
+        "byteLength": 86320,
+        "compressedBytes": 22469,
+        "sha256": "a755bc7a52683749c3ba9b725854e48ae11cfcd9e120a9ba4e6b8a0dc5b09c62",
+        "expandedSha256": "6f2435ada4922aab917384c9e843ac47442632f22e7044ad74bfd021a580dab0",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 79840,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        5,
+        2
+      ],
+      "sourceVertices": 6648,
+      "vertices": 5179,
+      "vertexByteOffset": 10799680,
+      "vertexByteLength": 165728,
+      "indexByteOffset": 10965408,
+      "indexByteLength": 13296,
+      "indexType": "uint16",
+      "indexCount": 6648,
+      "sourceExpandedSha256": "3fb2e2ca71522f6d39e5dc28c400f545e2adf062ce808766ad2509accd2a2a60",
+      "reconstructedSha256": "3fb2e2ca71522f6d39e5dc28c400f545e2adf062ce808766ad2509accd2a2a60",
+      "vertexSha256": "f01e5511b0885a4365623ad3747f519ed96ca8ccf3dc8a558160726e913b0b2a",
+      "indexSha256": "7751c4f62a35d1685203c17238af0fcbdefe74273daddbe2fe34b43954968272",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "d35c39736397c1645487822750fca18243f90bf5b60433eac141f18a3a463886",
+      "boundsZUp": [
+        [
+          40.0,
+          16.0,
+          0.013000000268220901
+        ],
+        [
+          47.0,
+          23.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0039.bin.gz",
+        "byteLength": 179024,
+        "compressedBytes": 46905,
+        "sha256": "4fa31915fabc7f846f5a5c0300ae6f20913bd80059f6bf731e5f7dbe4edc6280",
+        "expandedSha256": "0e71b90f76adcca0771a4fe1113dc4b3f6ebeb7798ce178f68c28739dc79a623",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 165728,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        5,
+        1
+      ],
+      "sourceVertices": 5622,
+      "vertices": 4469,
+      "vertexByteOffset": 10978704,
+      "vertexByteLength": 143008,
+      "indexByteOffset": 11121712,
+      "indexByteLength": 11244,
+      "indexType": "uint16",
+      "indexCount": 5622,
+      "sourceExpandedSha256": "d0af642ba2d366f4c44fcc135a6e3a739ac49575bc3100586c917a3afa924d35",
+      "reconstructedSha256": "d0af642ba2d366f4c44fcc135a6e3a739ac49575bc3100586c917a3afa924d35",
+      "vertexSha256": "ad8cd826579cdb4c6326b13c5d90f9e142896ad3fb15ba5541cc5bc59e54c08e",
+      "indexSha256": "19a64b0f5cd5aa5d2a341066529178c32bc4f5172ccc7122b6840bc1da157d12",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "b80b653db27d674f13ff5bf7b665088eb835f490a88a2c43c4c92302fd11fc82",
+      "boundsZUp": [
+        [
+          44.000022888183594,
+          8.0,
+          0.013000000268220901
+        ],
+        [
+          47.99900436401367,
+          16.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0040.bin.gz",
+        "byteLength": 154252,
+        "compressedBytes": 40291,
+        "sha256": "16714e375a9c4f85131b7982ac447b44fa2da248a891cbdaeddcc658422cadf0",
+        "expandedSha256": "7266dbda00d3b1d957eac11b4979fe15a5a58c839a47a477549d740047c8aabe",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 143008,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        6,
+        1
+      ],
+      "sourceVertices": 3750,
+      "vertices": 2937,
+      "vertexByteOffset": 11132956,
+      "vertexByteLength": 93984,
+      "indexByteOffset": 11226940,
+      "indexByteLength": 7500,
+      "indexType": "uint16",
+      "indexCount": 3750,
+      "sourceExpandedSha256": "e25d17d86591f4e0005f45030952a393c82c519ef2764aaa84a7f575e66f215e",
+      "reconstructedSha256": "e25d17d86591f4e0005f45030952a393c82c519ef2764aaa84a7f575e66f215e",
+      "vertexSha256": "a31fbd27a57b3341c459bc3b11ed4ff805cdb14c65523a545ae4d00b16082acb",
+      "indexSha256": "daab06eca34922158e8c95fea54e21468801c5a98d8e53d00862f51ffcc3df3d",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "ad507c70f1526ca73c865798fbec650cc7deedbbc5089f0f2b6c73f77af15144",
+      "boundsZUp": [
+        [
+          48.003482818603516,
+          12.0,
+          0.013000000268220901
+        ],
+        [
+          50.0,
+          15.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0041.bin.gz",
+        "byteLength": 101484,
+        "compressedBytes": 26879,
+        "sha256": "34a3abc967662b65affbac78a1287950d670aa4109c000ea4031bd3d38e748d8",
+        "expandedSha256": "1baf0653f46b4557b5d766a86ecb6a7c921d4d6a373da3668ef6aee4c128ce78",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 93984,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        3,
+        -2
+      ],
+      "sourceVertices": 2718,
+      "vertices": 2211,
+      "vertexByteOffset": 11234440,
+      "vertexByteLength": 70752,
+      "indexByteOffset": 11305192,
+      "indexByteLength": 5436,
+      "indexType": "uint16",
+      "indexCount": 2718,
+      "sourceExpandedSha256": "1e388804a61b3d3e2d25b10eb7fa22fd660a29426cfe1d6cec5ad6db892922d6",
+      "reconstructedSha256": "1e388804a61b3d3e2d25b10eb7fa22fd660a29426cfe1d6cec5ad6db892922d6",
+      "vertexSha256": "3ef6bb545fba1f85baed52c2a61d4043a7ec9df9c6d3fecec4dfb61d5c53fcc0",
+      "indexSha256": "4941e8c014ace462baed039e469aee3617ea9f6c59fd73d68abcb4ad7b8f97cb",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "41af3d0063c439f386f59c9aa37f56ac0840972a377d64c4fe6f5ca927bd6718",
+      "boundsZUp": [
+        [
+          26.0,
+          -10.0,
+          0.013000000268220901
+        ],
+        [
+          28.0,
+          -8.0,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0042.bin.gz",
+        "byteLength": 76188,
+        "compressedBytes": 19674,
+        "sha256": "b49d5cedd0a3379c6be4d974df5b40dea64e2c0a090ff499b224a8baf0943b5f",
+        "expandedSha256": "ea5cb582316b495c810bc6a97fe0674752732e1690cf78e670f381421276bbf0",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 70752,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        3,
+        -1
+      ],
+      "sourceVertices": 7080,
+      "vertices": 5566,
+      "vertexByteOffset": 11310628,
+      "vertexByteLength": 178112,
+      "indexByteOffset": 11488740,
+      "indexByteLength": 14160,
+      "indexType": "uint16",
+      "indexCount": 7080,
+      "sourceExpandedSha256": "c8b7e873bc5d6461808b3bec4ead4070fdca1e68aa4a7a317d7c5599130dbd43",
+      "reconstructedSha256": "c8b7e873bc5d6461808b3bec4ead4070fdca1e68aa4a7a317d7c5599130dbd43",
+      "vertexSha256": "14df5e7d172efe5bde857c1232f8e76456b0f27e90d2128f5a2242e8b907a0d2",
+      "indexSha256": "5ea9a9d6bb44a50086c08847ae6538ca1fbe4685ad43a31a81bfcd4016affb75",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "e6cb72b45415a7fd929e6a0023ea660e9ec08fc40b9352603f90af707064e239",
+      "boundsZUp": [
+        [
+          28.0,
+          -8.0,
+          0.013000000268220901
+        ],
+        [
+          32.0,
+          1.1102230411687688e-17,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0043.bin.gz",
+        "byteLength": 192272,
+        "compressedBytes": 48740,
+        "sha256": "0ae8787d0e08b7f49b7add9538fc195956a936af0c223172c9ad97f14f3c85b5",
+        "expandedSha256": "8342f618df82f78611e74305dd6e96789d2ac4f7169d199e6426c30074e47801",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 178112,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        4,
+        -1
+      ],
+      "sourceVertices": 7836,
+      "vertices": 6144,
+      "vertexByteOffset": 11502900,
+      "vertexByteLength": 196608,
+      "indexByteOffset": 11699508,
+      "indexByteLength": 15672,
+      "indexType": "uint16",
+      "indexCount": 7836,
+      "sourceExpandedSha256": "a74f5d57405e25a49bf312a4648c8698973bb99cef0c75499e2dc1a449deb14c",
+      "reconstructedSha256": "a74f5d57405e25a49bf312a4648c8698973bb99cef0c75499e2dc1a449deb14c",
+      "vertexSha256": "1cbfe6a597499a4a28c4ae8045e56d5c91902baf25d3b6745fd0ec9f9885f71b",
+      "indexSha256": "46eba4f6db7b9d4aa5cdc4df10b1d4f55d66a571a50c8651448b2d673f6f2a9f",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "59d57b630e6d921b9611240639ababae090fd544b52c748fe73ca3def124a990",
+      "boundsZUp": [
+        [
+          32.0,
+          -4.0,
+          0.013000000268220901
+        ],
+        [
+          36.0,
+          1.1102230411687688e-17,
+          0.020999999716877937
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0044.bin.gz",
+        "byteLength": 212280,
+        "compressedBytes": 54942,
+        "sha256": "b9c8047b8d02574665154ead138c4406660eaa16fd38bf1c9cf36f7a606fde1d",
+        "expandedSha256": "2f581fdc69e244380d214b22112f16197814ca500d39d20c14d6ee44a4146fa0",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 196608,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-67bc173b25535fd0",
+      "cell": [
+        0,
+        2
+      ],
+      "sourceVertices": 31659,
+      "vertices": 25030,
+      "vertexByteOffset": 11715180,
+      "vertexByteLength": 800960,
+      "indexByteOffset": 12516140,
+      "indexByteLength": 63318,
+      "indexType": "uint16",
+      "indexCount": 31659,
+      "sourceExpandedSha256": "6df0408b9e42f362a75887d3c5636ef458a01a234ccaa8d77c6eb480276d40d7",
+      "reconstructedSha256": "6df0408b9e42f362a75887d3c5636ef458a01a234ccaa8d77c6eb480276d40d7",
+      "vertexSha256": "5c2364e962bb7fb4789c107096d33f7ec213a7cdac125fc02d2d337dbb6ec8cb",
+      "indexSha256": "f75cec759a5fcfac93d2084dd1e726f1fcb07f7c9215498a539d11312950fa47",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "1b995761fecb92d896a13dc3941d489eae4b7295e00f167946ed9abea7392185",
+      "boundsZUp": [
+        [
+          3.8607640266418457,
+          19.0,
+          0.0010000000474974513
+        ],
+        [
+          4.999634265899658,
+          24.011329650878906,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0045.bin.gz",
+        "byteLength": 864278,
+        "compressedBytes": 189444,
+        "sha256": "5a08a20066d9de7b188a7bb7cff7a1ec2017c8885c52d7ed50c85d33670253f3",
+        "expandedSha256": "b80f5adc5045c6888f22b7589b588a6420a4d550f2ef6b180ce5095d7d3d9a76",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 800960,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-ff4f7a74e90782c4",
+      "cell": [
+        1,
+        -1
+      ],
+      "sourceVertices": 33516,
+      "vertices": 29367,
+      "vertexByteOffset": 12579460,
+      "vertexByteLength": 939744,
+      "indexByteOffset": 13519204,
+      "indexByteLength": 67032,
+      "indexType": "uint16",
+      "indexCount": 33516,
+      "sourceExpandedSha256": "4e9bd5dd7936e36a0d7e718f80c08053c8374a0d74b11e23325bd740363264f1",
+      "reconstructedSha256": "4e9bd5dd7936e36a0d7e718f80c08053c8374a0d74b11e23325bd740363264f1",
+      "vertexSha256": "2fd5c17cd27d692188101f2d4c685888db1e1d9e125771f5bf7ab6176afa7517",
+      "indexSha256": "9fe4de8883398175bda44394fabbaa65afc8e3cd90da3dc0d25da6673a74634b",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "978da8eca1066d246b387ea134cf1a8a364bdc0e86555acbe23d60fbb0814523",
+      "boundsZUp": [
+        [
+          8.0,
+          -7.0,
+          0.0010000000474974513
+        ],
+        [
+          13.0,
+          -5.0,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0046.bin.gz",
+        "byteLength": 1006776,
+        "compressedBytes": 245431,
+        "sha256": "95fd1fccf3d3cb65639965e090275b700ef82d95c5cb492736db1b59846b2983",
+        "expandedSha256": "385e7491f89da8236948dc22066a4b1caa2b4560f511aff0fff4ba53d242f08d",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 939744,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-67bc173b25535fd0",
+      "cell": [
+        2,
+        1
+      ],
+      "sourceVertices": 24849,
+      "vertices": 20881,
+      "vertexByteOffset": 13586236,
+      "vertexByteLength": 668192,
+      "indexByteOffset": 14254428,
+      "indexByteLength": 49698,
+      "indexType": "uint16",
+      "indexCount": 24849,
+      "sourceExpandedSha256": "3462fc24fa66f27cb1037ed58d01c8c97eac3d3c3010ba9e669489ccefab460e",
+      "reconstructedSha256": "3462fc24fa66f27cb1037ed58d01c8c97eac3d3c3010ba9e669489ccefab460e",
+      "vertexSha256": "459dcb7394f4ad36ce1551d4098ab355e07309440351f888a95884eadf872826",
+      "indexSha256": "d4b1d6db00da38ee04f69c913034517ee2b6cfdc16b41a10ae21dbea1f506ed0",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "28b8ea849a3cd358fb4142b2e9ef8284dfc76b204f2339053d973cb1256f2c76",
+      "boundsZUp": [
+        [
+          21.0,
+          8.0,
+          0.0010000000474974513
+        ],
+        [
+          22.0,
+          12.0,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0047.bin.gz",
+        "byteLength": 717890,
+        "compressedBytes": 141871,
+        "sha256": "1752c1d042aa38be30e07f3ce63736029c0281d4891e6baaa8a5560319be4bd6",
+        "expandedSha256": "288201fabac57da0406faf9a10b9f63a155c4d4b576e52db2a2ab1365ef78c39",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 668192,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-67bc173b25535fd0",
+      "cell": [
+        4,
+        0
+      ],
+      "sourceVertices": 66495,
+      "vertices": 53983,
+      "vertexByteOffset": 14304128,
+      "vertexByteLength": 1727456,
+      "indexByteOffset": 16031584,
+      "indexByteLength": 132990,
+      "indexType": "uint16",
+      "indexCount": 66495,
+      "sourceExpandedSha256": "40dd3dc04126e829e6ed84922be80e7b786e85e86614263372036d04f27e63b7",
+      "reconstructedSha256": "40dd3dc04126e829e6ed84922be80e7b786e85e86614263372036d04f27e63b7",
+      "vertexSha256": "7925c6d7a5de665bc6acbaf750b3b403892bd2b5021277a2d103b2ec54e42fd7",
+      "indexSha256": "660b12ca5ee605c6c9d415478eca45040b95ff2239b3f31f03beb6fe812dbbd1",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "33f929dc298b7ba2084e769ce36bd5fdc023b3988d9f2fed096980b36ad3b7ff",
+      "boundsZUp": [
+        [
+          32.0,
+          -6.348128541457063e-18,
+          0.0010000000474974513
+        ],
+        [
+          37.0,
+          7.0,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0048.bin.gz",
+        "byteLength": 1860446,
+        "compressedBytes": 396070,
+        "sha256": "72642077bbbb11c93e852d0a413106a8489662dbacf52bd9085f1b920d223c98",
+        "expandedSha256": "b3963321f934bc468f01b1d5710ec6e4136faa28eb5de290a8f1c8c7889467e9",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 1727456,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-67bc173b25535fd0",
+      "cell": [
+        3,
+        0
+      ],
+      "sourceVertices": 18270,
+      "vertices": 15128,
+      "vertexByteOffset": 16164576,
+      "vertexByteLength": 484096,
+      "indexByteOffset": 16648672,
+      "indexByteLength": 36540,
+      "indexType": "uint16",
+      "indexCount": 18270,
+      "sourceExpandedSha256": "a3c36dd1123189227dee040c64629351c661f3e6075abaf4989937a4ebac87da",
+      "reconstructedSha256": "a3c36dd1123189227dee040c64629351c661f3e6075abaf4989937a4ebac87da",
+      "vertexSha256": "7aeb21a75a7271193fe4913758415bce4ee08953c5bbe45467c3e7e5cf3c70a4",
+      "indexSha256": "0ef74033283651cb48902adc2e9317168827f0fd6f0db3263c61f8d6d34211d1",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "240bf20020113602b673ddac203ef9c931bb0850b6314e516ff3494324419c11",
+      "boundsZUp": [
+        [
+          29.0,
+          -1.1102230246251565e-16,
+          0.0010000000474974513
+        ],
+        [
+          32.0,
+          1.0,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0049.bin.gz",
+        "byteLength": 520636,
+        "compressedBytes": 109382,
+        "sha256": "62e57b66ff2e902c9a50108e4fab90dad973fa20b96d55c5b4dd59b7a327d908",
+        "expandedSha256": "047e9ce13ac50ed941d099f7f70bea42a0aa97ae38e3d7a3b7fa22a5808584b5",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 484096,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-67bc173b25535fd0",
+      "cell": [
+        4,
+        2
+      ],
+      "sourceVertices": 5769,
+      "vertices": 4798,
+      "vertexByteOffset": 16685212,
+      "vertexByteLength": 153536,
+      "indexByteOffset": 16838748,
+      "indexByteLength": 11538,
+      "indexType": "uint16",
+      "indexCount": 5769,
+      "sourceExpandedSha256": "56f897469e8b7492e6226ed3d0c0b28fd278c791745b79fd84888cb717afa425",
+      "reconstructedSha256": "56f897469e8b7492e6226ed3d0c0b28fd278c791745b79fd84888cb717afa425",
+      "vertexSha256": "955d456d43f42b66196e6303011e5f4eb8b273ec525e5b26cfdc1a7322f7fcd2",
+      "indexSha256": "0fed3ba7c4c70f4111ae15a6a9d87f1c43c0255ef59f88544aa2d8d2ad1ced60",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "83915d159feba9d874fb30eb002b4e0090405864d9d49372d56a4ab923d4c961",
+      "boundsZUp": [
+        [
+          35.0,
+          19.0,
+          0.0010000000474974513
+        ],
+        [
+          36.0,
+          20.0,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0050.bin.gz",
+        "byteLength": 165074,
+        "compressedBytes": 33739,
+        "sha256": "649831a518ae1e0b8f169673584ef1c6290e1ef7866cecefe30f2060e2f37535",
+        "expandedSha256": "eb557d11c38f0892279e50bd7da1fd78e0285d5f96da05d588c05ac229ccac9f",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 153536,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-67bc173b25535fd0",
+      "cell": [
+        3,
+        3
+      ],
+      "sourceVertices": 50652,
+      "vertices": 42041,
+      "vertexByteOffset": 16850288,
+      "vertexByteLength": 1345312,
+      "indexByteOffset": 18195600,
+      "indexByteLength": 101304,
+      "indexType": "uint16",
+      "indexCount": 50652,
+      "sourceExpandedSha256": "d5a4ac8e398ecc30ec5123456c6f4ec6f19265dd4da9a10cb66c79f7e7a3217a",
+      "reconstructedSha256": "d5a4ac8e398ecc30ec5123456c6f4ec6f19265dd4da9a10cb66c79f7e7a3217a",
+      "vertexSha256": "46169b45e0ab81f168731f0c9f57711fe8e6595983f2e4c5db77b4f3dfad6036",
+      "indexSha256": "c77bd792078ced789e4652cb81ec77343605ffcad9cb4e379b1cff7acb3de07f",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "7c5ccd61cb71bbe0cc194c52d34015deb8168cf543e9ddb81f0ef3ed74f7b9de",
+      "boundsZUp": [
+        [
+          25.0,
+          25.0,
+          0.0010000000474974513
+        ],
+        [
+          27.0,
+          32.0,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0051.bin.gz",
+        "byteLength": 1446616,
+        "compressedBytes": 289996,
+        "sha256": "0f240da782245076dc22c04cbe0a80a0631ce24b30543bb6103e6e8098e81b6d",
+        "expandedSha256": "416c6bc9a2c02ee903f9ecaea82e7e3cf1dc10cc1540a50f2ee9664ca33d96ba",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 1345312,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-67bc173b25535fd0",
+      "cell": [
+        3,
+        4
+      ],
+      "sourceVertices": 23568,
+      "vertices": 19186,
+      "vertexByteOffset": 18296904,
+      "vertexByteLength": 613952,
+      "indexByteOffset": 18910856,
+      "indexByteLength": 47136,
+      "indexType": "uint16",
+      "indexCount": 23568,
+      "sourceExpandedSha256": "43eb86777e3f537539a085da44737f0e6bd5e73faf522ee029a18e081648d677",
+      "reconstructedSha256": "43eb86777e3f537539a085da44737f0e6bd5e73faf522ee029a18e081648d677",
+      "vertexSha256": "b20a21eae0a41b10596403e165318790ddf02112927fc83d87345d5857d10a2e",
+      "indexSha256": "fe2ae4e2c7a65f91efa3f02da42a03d61d6f34be111c1b6886b236eb0222de8c",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "62d9fbbd2b3d6501d1e7dbbdc7929dba93da89f7492ccaa7a1904e39af017e4b",
+      "boundsZUp": [
+        [
+          24.0,
+          32.0,
+          0.0010000000474974513
+        ],
+        [
+          26.0,
+          35.0,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0052.bin.gz",
+        "byteLength": 661088,
+        "compressedBytes": 132393,
+        "sha256": "3031af91138cf18ed57d6780120781e3661d059df5e06a940df420fd2b0950d4",
+        "expandedSha256": "0e43ff8398f85e415a5396b2e3d7715eb5edf4874f3a61edd10cb3390072eb98",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 613952,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-ff4f7a74e90782c4",
+      "cell": [
+        4,
+        0
+      ],
+      "sourceVertices": 20376,
+      "vertices": 17077,
+      "vertexByteOffset": 18957992,
+      "vertexByteLength": 546464,
+      "indexByteOffset": 19504456,
+      "indexByteLength": 40752,
+      "indexType": "uint16",
+      "indexCount": 20376,
+      "sourceExpandedSha256": "5b3b178d1b81475dd9db9932953af98742de66452b07aa153008882d9823d55c",
+      "reconstructedSha256": "5b3b178d1b81475dd9db9932953af98742de66452b07aa153008882d9823d55c",
+      "vertexSha256": "0d6ea42eaa74fcd5a40b4fb9b39e6af3a6a3b5c7a5a8515f13c918cc8dbfa049",
+      "indexSha256": "ea1dcb248dd684166a3dab6ec320134ed69235077d2ce8862270ef9e910ef6d1",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "bd316d8cb49ffe81f1cc8792588ae0ed4ef11eacc1f3307a5f93defeafe50b8c",
+      "boundsZUp": [
+        [
+          31.992431640625,
+          6.940977096557617,
+          0.0010000000474974513
+        ],
+        [
+          35.0,
+          8.021302223205566,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0053.bin.gz",
+        "byteLength": 587216,
+        "compressedBytes": 147950,
+        "sha256": "4118f48792002533852c9ad352295744bf4dbac36f4500aa3ea6f6deeecad2cf",
+        "expandedSha256": "cf477db13625b5d005ee9e90b0fc48e31cacb27af8cc9bb37a5b4d8f20cc2f2d",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 546464,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-ff4f7a74e90782c4",
+      "cell": [
+        4,
+        1
+      ],
+      "sourceVertices": 456,
+      "vertices": 140,
+      "vertexByteOffset": 19545208,
+      "vertexByteLength": 4480,
+      "indexByteOffset": 19549688,
+      "indexByteLength": 912,
+      "indexType": "uint16",
+      "indexCount": 456,
+      "sourceExpandedSha256": "ca97e1d686985f6224734c65b2adb9a0e368a8ac734be3d2c8a0c82a0cdfa674",
+      "reconstructedSha256": "ca97e1d686985f6224734c65b2adb9a0e368a8ac734be3d2c8a0c82a0cdfa674",
+      "vertexSha256": "d7bcf66c4b38b3e4ec569e83eaef8e6639081da6177af4b38a85bdf13d93aeaf",
+      "indexSha256": "b17b436765e9ceae2b931e181a12657bd39978859dff2b6c0b7a53666535bb8b",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "701a354c5a3d4fd6bc755745f29843a0dad4e1468fd389eb546f94c9d556c6c1",
+      "boundsZUp": [
+        [
+          32.9958381652832,
+          7.974243640899658,
+          0.0010000000474974513
+        ],
+        [
+          34.23109436035156,
+          9.00191593170166,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0054.bin.gz",
+        "byteLength": 5392,
+        "compressedBytes": 1889,
+        "sha256": "b9604ddae5b8abe45d7122f51f17325ace168c2b0adb296f7790a7c7f29862e6",
+        "expandedSha256": "22d8ed41bda1a344d134bb621f16e14d6fbb6875ca212fe7e8656a80e689297d",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 4480,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-ff4f7a74e90782c4",
+      "cell": [
+        3,
+        0
+      ],
+      "sourceVertices": 6615,
+      "vertices": 5675,
+      "vertexByteOffset": 19550600,
+      "vertexByteLength": 181600,
+      "indexByteOffset": 19732200,
+      "indexByteLength": 13230,
+      "indexType": "uint16",
+      "indexCount": 6615,
+      "sourceExpandedSha256": "0ce785413d57baede6d4fa523c3dc63726757fcc305635d0172e01a8d106d20d",
+      "reconstructedSha256": "0ce785413d57baede6d4fa523c3dc63726757fcc305635d0172e01a8d106d20d",
+      "vertexSha256": "abfb3a969d173b2d9e9eb7e44154c9a941c0d9a7c7ebfdd6063e46f8ae51ebef",
+      "indexSha256": "5552606f160fce60e63122fafb7c9563c0358d4c81c5335fd889c3eef6fe16f0",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "68c5f1efa1516ba0f093b765ad970d21e33994e699053b4ad5e8822c39447f95",
+      "boundsZUp": [
+        [
+          31.0,
+          7.0,
+          0.0010000000474974513
+        ],
+        [
+          32.011592864990234,
+          8.0,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0055.bin.gz",
+        "byteLength": 194830,
+        "compressedBytes": 49502,
+        "sha256": "2be20ec2c143ccbc4a38e71dbd6935dd893a825cbe9cc15540e9c56ed4448f49",
+        "expandedSha256": "ef27316709ed24f05f07a4a7b24438b958ccf61b446c7145d52b9025c975309b",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 181600,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-67bc173b25535fd0",
+      "cell": [
+        1,
+        5
+      ],
+      "sourceVertices": 13926,
+      "vertices": 10921,
+      "vertexByteOffset": 19745432,
+      "vertexByteLength": 349472,
+      "indexByteOffset": 20094904,
+      "indexByteLength": 27852,
+      "indexType": "uint16",
+      "indexCount": 13926,
+      "sourceExpandedSha256": "4fdcc03295a43d40211e6aef158ecfa9a98eb0ae71f21e5c4c52612a843d83da",
+      "reconstructedSha256": "4fdcc03295a43d40211e6aef158ecfa9a98eb0ae71f21e5c4c52612a843d83da",
+      "vertexSha256": "42dd5533b1418edca64f84ad9068d2befb696f231bf914c1f4b0c0126fb538d8",
+      "indexSha256": "7f73143f2abc49107cd7a2216cd48e1015183ec679e5737a4dab1a5ffd3d74f4",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "881fbb2bb6ebb75487f158d424530c1946993823b9cdf5cfa0bc17a4056a04ff",
+      "boundsZUp": [
+        [
+          12.629169464111328,
+          42.96395492553711,
+          0.0010000000474974513
+        ],
+        [
+          14.188998222351074,
+          44.328983306884766,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0056.bin.gz",
+        "byteLength": 377324,
+        "compressedBytes": 79588,
+        "sha256": "29e7631b507ef6276adb75e8506af1c5d377b648711f1b19d7b16525abd81fcb",
+        "expandedSha256": "05008fb5ed63eb17c7ca5264485da7e6a29e97240d419a7cdeb5e20ef8b5bbd0",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 349472,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-67bc173b25535fd0",
+      "cell": [
+        0,
+        4
+      ],
+      "sourceVertices": 18774,
+      "vertices": 14863,
+      "vertexByteOffset": 20122756,
+      "vertexByteLength": 475616,
+      "indexByteOffset": 20598372,
+      "indexByteLength": 37548,
+      "indexType": "uint16",
+      "indexCount": 18774,
+      "sourceExpandedSha256": "b3c188103bb79106375a720d55c48247e9bfc15309386c6757f9ecce70c7a7a6",
+      "reconstructedSha256": "b3c188103bb79106375a720d55c48247e9bfc15309386c6757f9ecce70c7a7a6",
+      "vertexSha256": "14b4a856b148dc017a2d0eba605d19feb91a52d201bdb29c9f42a0650ed30d5b",
+      "indexSha256": "369de0d6eeae34ceb0db3e6dba66377549146aa00d16af84d828ba844c09271f",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "10b144cbc95e32c8db2e1e76ea9931eb7b7f8b81b0dc813f862b8dd01960eb8e",
+      "boundsZUp": [
+        [
+          1.9500000476837158,
+          33.04999923706055,
+          0.0010000000474974513
+        ],
+        [
+          3.0,
+          36.70000076293945,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0057.bin.gz",
+        "byteLength": 513164,
+        "compressedBytes": 111653,
+        "sha256": "c5aacd6cda0ec5cbf4664280dd812b359089f74abf94fef893997bd621c4fc02",
+        "expandedSha256": "5d5f85d6c6d3f4f6abe0d58db6f03900e04f95f44f86f8fc908b25ddaedd791e",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 475616,
+        "indexEncoding": "delta-modulo"
+      }
+    },
+    {
+      "materialId": "mat-56723ef2e8e5199c",
+      "cell": [
+        0,
+        2
+      ],
+      "sourceVertices": 1464,
+      "vertices": 1170,
+      "vertexByteOffset": 20635920,
+      "vertexByteLength": 37440,
+      "indexByteOffset": 20673360,
+      "indexByteLength": 2928,
+      "indexType": "uint16",
+      "indexCount": 1464,
+      "sourceExpandedSha256": "444b1a2906f0f94e3255e082303d1387e414a9ae0b9f0302905eef492e0903dd",
+      "reconstructedSha256": "444b1a2906f0f94e3255e082303d1387e414a9ae0b9f0302905eef492e0903dd",
+      "vertexSha256": "df0601635bffd04422c066c86c16072538104f076d006c883984d1100802ba08",
+      "indexSha256": "29112d6a55cac24250f7605c69c2b167c96ac3af5450756c604b9a9e02651733",
+      "exactReconstruction": true,
+      "encodedIndexSha256": "95df081f3edda145d2b389d354f52bc43dd5e43f713a3b109d89684bee34d499",
+      "boundsZUp": [
+        [
+          4.014999866485596,
+          19.57509994506836,
+          0.0010000000474974513
+        ],
+        [
+          4.434999942779541,
+          19.995100021362305,
+          0.008999999612569809
+        ]
+      ],
+      "standalone": {
+        "url": "/data/public-paving-indexed-r5/chunks/0058.bin.gz",
+        "byteLength": 40368,
+        "compressedBytes": 10739,
+        "sha256": "534ada8b6ca55fcdc3f4f4d0bbf0607df01780640b5506fe8b86085aeb7e6b86",
+        "expandedSha256": "5f0c7dacbdf389a5e3cb5193b5358d756c534ec85bfa09255546177c3f6cd468",
+        "vertexByteOffset": 0,
+        "indexByteOffset": 37440,
+        "indexEncoding": "delta-modulo"
+      }
+    }
+  ],
+  "sourceManifestSha256": "d7e11c81209ccce462e86ccdee0748c06e0fbdfdee32801fdb6e6467b78cb615",
+  "pack": {
+    "url": "/data/public-paving-indexed-r5/geometry.pack.gz",
+    "byteLength": 20676288,
+    "compressedBytes": 4759870,
+    "sha256": "2e51923e940c0f2f76ef3b036e0ea4b167a8c526abe53474468a7a65750c3e51"
+  },
+  "lossless": true,
+  "indexEncoding": "delta-modulo",
+  "streaming": {
+    "independentChunks": true,
+    "geometryBytes": 20676238,
+    "compressedBytes": 4753501,
+    "boundsSpace": "original Z-up world before existing world X=-pi/2 transform",
+    "noWholePackRequired": true,
+    "indexEncoding": "delta-modulo"
+  }
+}
